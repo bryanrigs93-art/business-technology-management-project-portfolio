@@ -14,7 +14,42 @@ Process improvement
 AI-assisted learning and productivity
 Projects
 
-## Project 1: Carview UX/UI Prototype
+
+**Project 1**
+AI-Powered Information Collection Assistant with Python | Stanford Code in Place 2026
+
+https://codeinplace.stanford.edu/cip6/share/J6FJ6MJSJVUpQU9jWySC
+
+Developed a Python-based AI-assisted chatbot as part of the Stanford Code in Place 2026 program. This academic project collects user information through structured questions, processes the responses, and sends the collected data to an AI model to generate contextual answers.
+
+
+The project demonstrates the complete flow of user input collection, data processing, AI integration, and response delivery. It serves as an introduction to how organizations can gather information and leverage AI-assisted systems to support decision-making and user interactions.
+
+
+Key Responsibilities:
+
+- Designed the user interaction flow and question sequence.
+- Collected and validated user inputs.
+- Integrated Python with an AI model to generate responses.
+- Processed user-provided information before AI analysis.
+- Presented AI-generated outputs to end users.
+
+Technologies:
+Python, APIs, Prompt Engineering, User Input Validation, AI Integration.
+
+Business Analysis Perspective:
+
+- Requirements gathering through structured questioning.
+- Information collection and processing.
+- Human-AI interaction design.
+- Decision-support workflow simulation.
+- Data capture for future analysis and reporting.
+
+Academic project completed during Stanford Code in Place 2026. Certificate completion requirements have been fulfilled and official certificate issuance is mid june
+
+
+*******>*******************************************************
+## Project 2 Carview UX/UI Prototype
 
 Carview is an academic digital product prototype created for a Digital Product Design and Development course. The project explores the idea of a car marketplace app where users can compare imported vehicles, review basic vehicle information, and start a safer purchase process.
 
@@ -67,3 +102,9 @@ The presentation video was created to explain the Carview concept in a clear and
 * [Carview UX/UI Prototype Documentation - Notion](https://www.notion.so/Digital-Product-Design-and-Development-28341280cc1c8068a56adaa8c2e40b49)
 * [Carview Business Model and Process Map - Miro](https://miro.com/app/board/uXjVJRTyToo=/?share_link_id=915431195015)
 * [Carview Live Demo - CodePen](https://codepen.io/Rigs-the-bashful/full/yyYdqZm)
+
+
+**Project 2**
+
+code in place
+
