@@ -175,6 +175,63 @@ Pattern and trend identification.
 Business insight communication.
 Visual storytelling with data.
 
+
+
 Academic project completed as part of a data analysis activity at ESI School of Management.
 
 
+**Project 4 | Data Analysis with Python on Google Collab, Pandas, and Power BI | ESI School of Management
+
+
+Completed an academic data analysis project focused on exploring, filtering, aggregating, transforming, and visualizing structured business data using Python, Pandas, NumPy, and Power BI.
+
+The first part of the project involved preparing a Python environment, importing a CSV dataset, exploring the data structure, reviewing descriptive statistics, filtering records based on business criteria, and applying aggregation techniques such as average salary by department and employee count by status.
+
+The second part focused on importing an extended dataset into Power BI, cleaning and transforming the data with Power Query, designing an interactive dashboard, and applying Power BI AI visual features such as Key Influencers and Decomposition Tree to identify insights and support decision-making.
+
+Key Activities:
+
+Installed and configured the Python analysis environment.
+Imported and explored CSV datasets using Pandas.
+Used .head(), .info(), and .describe() for initial data understanding.
+Applied filtering techniques to extract relevant business subsets.
+Used grouping and aggregation to summarize data.
+Imported extended datasets into Power BI.
+Cleaned and transformed data using Power Query.
+Designed interactive dashboard pages with charts, tables, slicers, and filters.
+Applied Power BI AI visuals such as Key Influencers and Decomposition Tree.
+Documented the analysis process and presented results through video demonstrations.
+
+Technologies:
+Python, Pandas, NumPy, Power BI, Power Query, CSV, Data Visualization, AI Visuals, Jupyter Notebook / VS Code.
+
+Business Analysis Perspective:
+
+Data exploration for business understanding.
+Filtering and aggregation to answer business questions.
+KPI and metric interpretation.
+Dashboard design for stakeholder communication.
+AI-assisted insight discovery.
+Data-driven decision support.
+Technical documentation and presentation of findings.
+
+Deliverables:
+
+Two YouTube video demonstrations.
+
+Part 1: Python Data Analysis Demonstration (VS Code):
+https://youtu.be/SQa_RI2HTSY?si=jegVk7Ne9x2X0Ch4
+
+
+Part 2: Data Analysis with Google Colab and Interactive Power BI Dashboard:
+https://www.youtube.com/watch?v=DDX2tRAKHYs
+
+
+**Project Repository and Deliverables
+-Python analysis files.
+-Power BI dashboard file.
+-Final presentation and documented findings:
+
+https://drive.google.com/drive/folders/1AJDBqmt4xR_RzNgAg22OqZ3foY1C-9Cm?usp=drive_link
+
+Academic project completed as part of Business Intelligence / Data Analysis coursework at ESI School of Management.
