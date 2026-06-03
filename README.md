@@ -14,8 +14,7 @@ AI-assisted learning and productivity
 Projects
 
 
-## Project 1
-AI-Powered Information Collection Assistant with Python | Stanford Code in Place 2026
+## Project 1 AI-Powered Information Collection Assistant with Python | Stanford Code in Place 2026
 
 https://codeinplace.stanford.edu/cip6/share/J6FJ6MJSJVUpQU9jWySC
 
@@ -102,5 +101,80 @@ The presentation video was created to explain the Carview concept in a clear and
 * [Carview Business Model and Process Map - Miro](https://miro.com/app/board/uXjVJRTyToo=/?share_link_id=915431195015)
 * [Carview Live Demo - CodePen](https://codepen.io/Rigs-the-bashful/full/yyYdqZm)
 
+## Project 3 SQL Server Database Installation and Data Modeling Project | ESI School of Management
+
+Successfully installed and configured Microsoft SQL Server Express and SQL Server Management Studio (SSMS) as part of a database systems laboratory project.
+
+Created and managed a relational database environment, including database creation, table design, and data storage for student demographic information. Demonstrated the ability to set up database infrastructure, execute SQL queries, and manage data using industry-standard tools.
+
+As part of the assignment, produced a step-by-step video tutorial explaining the complete installation, configuration, database creation, table design, and query execution process. The tutorial was recorded and documented using OBS Studio.
+
+Key Activities:
+
+* Installed and configured SQL Server Express.
+* Configured SQL Server Management Studio (SSMS).
+* Created a relational database environment.
+* Designed and created tables.
+* Executed SQL queries for data retrieval and analysis.
+* Validated database connectivity and configuration.
+* Produced technical documentation through a recorded walkthrough using OBS Studio.
+
+**You tube video: 
+https://youtu.be/MmWV3Z5PF8M?si=IrTRjyQHBDr80YDR
+
+**Queries /Project Evidence / Documentation:
+https://esieduc-my.sharepoint.com/:w:/g/personal/rbodegas_asv_esieduc_org/IQBTgYloCgSCQpHB3hJIS6yYAc7OSudaSaL12kUjy8KU-mM?e=0M2kNe
+
+Technologies:
+SQL Server Express, SQL Server Management Studio (SSMS), SQL, OBS Studio, Relational Databases.
+
+Business Analysis Perspective:
+
+* Data structure design.
+* Information management.
+* Technical documentation.
+* Knowledge transfer and user guidance.
+* Database fundamentals.
+* Data storage and retrieval.
+
+Academic project completed as part of the Database Models course at ESI School of Management.
+
+## Project 4 Descriptive Data Analysis and Data Cleaning Project | ESI School of Management
+
+Completed an academic data analysis project using Excel to review, clean, summarize, visualize, and interpret a structured dataset. The project focused on understanding the dataset, calculating descriptive statistics, creating summary tables, building charts, and presenting business insights through a short video presentation.
+
+Key Activities:
+
+Reviewed the dataset structure, columns, and data types.
+Performed basic data cleaning and initial data validation.
+Calculated descriptive statistics such as count, average, minimum, and maximum.
+Created a dedicated “Basic Statistics” worksheet.
+Built summary tables using categories such as department, gender, or status.
+Used pivot tables and aggregation functions to summarize data.
+Created charts including bar charts, pie charts, and histograms.
+Identified trends, patterns, and possible outliers.
+Prepared a short analysis report with key findings.
+Presented the results through a 2–4 minute video presentation.
+
+**Video Presentation:
+
+https://canva.link/4t7szd1apthwldm
+
+**Project Evidence / Supporting Files:
+https://esieduc-my.sharepoint.com/:f:/g/personal/rbodegas_asv_esieduc_org/IgAtlaioQFv1So-sz5FS3Vi6AX2f6K0pGW4S8_G8BUlDu4g?e=VxeCk5
+
+Technologies:
+Microsoft Excel, Pivot Tables, Charts, Descriptive Statistics, Data Cleaning, Canva.
+
+Business Analysis Perspective:
+
+Data exploration and interpretation.
+KPI and metric understanding.
+Data quality review.
+Pattern and trend identification.
+Business insight communication.
+Visual storytelling with data.
+
+Academic project completed as part of a data analysis activity at ESI School of Management.
 
 
