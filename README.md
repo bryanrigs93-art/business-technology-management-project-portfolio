@@ -4,8 +4,7 @@ Hi, I'm Bryan Bodegas, a Business Technology Management student building practic
 
 This portfolio is currently being organized and will include selected projects from my academic work, personal learning, and practical exercises you might still find some in spanish as they are acqdemic activitties I made before but new projects in english and updated with current knowledge wil he uploaded soon.
 
-**Current Focus
-**
+** Current Focus
 Business Technology Management
 Data Analytics and Business Intelligence
 Python fundamentals
@@ -51,7 +50,7 @@ Academic project completed during Stanford Code in Place 2026. Certificate compl
 *******>*******************************************************
 ## Project 2 Carview UX/UI Prototype
 
-Carview is an academic digital product prototype created for a Digital Product Design and Development course. The project explores the idea of a car marketplace app where users can compare imported vehicles, review basic vehicle information, and start a safer purchase process.
+Carview is an academic digital product prototype created for a Digital Product Design and Development course last year with team mates to get used to process and learning tools. The project explores the idea of a car marketplace app where users can compare imported vehicles, review basic vehicle information, and start a safer purchase process.
 
 This is an early UX/UI and front-end prototype, not a fully functional production app. The prototype was created with AI-assisted coding support using Codex to practice front-end structure, visual storytelling, and simulated business process flows.
 
@@ -74,7 +73,7 @@ This project was developed as part of an academic process that included product 
 
 * **CodePen:** Used to publish and test the interactive front-end prototype.
 
-* **HTML, CSS, and JavaScript:** Used to build the prototype interface and basic interactions.
+* **HTML, CSS, and JavaScript:** vibe coding with codex, Used to build the prototype interface and basic interactions.
 
 * **Codex:** Used as AI-assisted coding support to help build and refine the prototype structure.
 
@@ -104,7 +103,4 @@ The presentation video was created to explain the Carview concept in a clear and
 * [Carview Live Demo - CodePen](https://codepen.io/Rigs-the-bashful/full/yyYdqZm)
 
 
-**Project 2**
-
-code in place
 
