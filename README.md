@@ -1,4 +1,4 @@
-##Bryan Bodegas## | Project Portfolio Created 6/02/2026
+## Bryan Bodegas | Project Portfolio Created 6/02/2026
 
 Hi, I'm Bryan Bodegas, a Business Technology Management student building practical experience in business technology, data analytics, workflow documentation, and AI-assisted productivity.
 
@@ -15,7 +15,7 @@ AI-assisted learning and productivity
 Projects
 
 
-**Project 1**
+## Project 1
 AI-Powered Information Collection Assistant with Python | Stanford Code in Place 2026
 
 https://codeinplace.stanford.edu/cip6/share/J6FJ6MJSJVUpQU9jWySC
