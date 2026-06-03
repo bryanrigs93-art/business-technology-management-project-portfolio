@@ -180,7 +180,7 @@ Visual storytelling with data.
 Academic project completed as part of a data analysis activity at ESI School of Management.
 
 
-##Project 5 Data Analysis with Python on Google Collab, Pandas, and Power BI ESI School of Management
+## Project 5 Data Analysis with Python on Google Collab, Pandas, and Power BI ESI School of Management
 
 
 Completed an academic data analysis project focused on exploring, filtering, aggregating, transforming, and visualizing structured business data using Python, Pandas, NumPy, and Power BI.
