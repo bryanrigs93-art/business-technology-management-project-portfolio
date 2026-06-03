@@ -16,8 +16,6 @@ Projects
 
 ## Project 1: Carview UX/UI Prototype
 
-## Project: Carview UX/UI Prototype
-
 Carview is an academic digital product prototype created for a Digital Product Design and Development course. The project explores the idea of a car marketplace app where users can compare imported vehicles, review basic vehicle information, and start a safer purchase process.
 
 This is an early UX/UI and front-end prototype, not a fully functional production app. The prototype was created with AI-assisted coding support using Codex to practice front-end structure, visual storytelling, and simulated business process flows.
