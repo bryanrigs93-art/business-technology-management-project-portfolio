@@ -2,7 +2,7 @@
 
 Hi, I'm Bryan Bodegas, a Business Technology Management student building practical experience in business technology, data analytics, workflow documentation, and AI-assisted productivity.
 
-This portfolio is currently being organized and will include selected projects from my academic work, personal learning, and practical exercises you might still fimnd some in spanish as they are acqdemic activitties I made before but new projects in english and updated with current knowledge wil he uploaded soon.
+This portfolio is currently being organized and will include selected projects from my academic work, personal learning, and practical exercises you might still find some in spanish as they are acqdemic activitties I made before but new projects in english and updated with current knowledge wil he uploaded soon.
 
 **Current Focus
 **
