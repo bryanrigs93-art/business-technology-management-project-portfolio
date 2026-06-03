@@ -1,4 +1,4 @@
-###Bryan Bodegas | Project Portfolio Created 6/02/2026
+##Bryan Bodegas | Project Portfolio Created 6/02/2026
 
 Hi, I'm Bryan Bodegas, a Business Technology Management student building practical experience in business technology, data analytics, workflow documentation, and AI-assisted productivity.
 
