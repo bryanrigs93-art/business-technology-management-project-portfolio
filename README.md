@@ -14,84 +14,129 @@ AI-assisted learning and productivity
 Projects
 
 
-AI Recommendation Hub
-Guided AI Recommendation Workflow with Python
+# AI Recommendation Hub
+![Stanford](https://img.shields.io/badge/Stanford-Code%20in%20Place-red)
+![Python](https://img.shields.io/badge/Python-Programming-blue)
+![AI](https://img.shields.io/badge/AI-Recommendation%20Workflow-purple)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Requirements%20Gathering-green)
 
-Project link:
+## Turning ChatGPT into a Guided Recommendation Workflow
+
+**Project link:**  
+
 https://codeinplace.stanford.edu/cip6/share/9hfUwN7XmlQN4cGAKO2G
 
-Overview
+---
 
-AI Recommendation Hub is a Python project created during Stanford Code in Place 2026.
+## Overview
 
-The app lets users choose a recommendation assistant, answer a few guided questions, and receive a personalized AI-generated recommendation.
+AI Recommendation Hub is a Python project created during **Stanford Code in Place 2026**.
 
-The purpose of this project is not to replace ChatGPT. Instead, it shows how AI can be placed inside a structured workflow where the app collects the right inputs, prepares the context, and presents the result in a simple visual interface.
+The project demonstrates how a simple app can turn a blank AI prompt into a guided workflow. Instead of expecting users to know exactly what to ask ChatGPT, the app guides them through specific questions, collects their inputs, organizes the context, and sends that information to an AI model to generate a personalized recommendation.
 
-Why It Matters
+---
 
-Anyone can write a prompt in ChatGPT, but not every user knows what information to include.
+## Problem
 
-This project turns a blank prompt into a guided experience:
+A common issue with AI tools is that many users, especially non-technical users, do not always know how to write clear prompts or what information to include.
 
-User selection → guided questions → input collection → AI prompt → personalized recommendation → visual output
+In a company, this can limit AI adoption because employees may want to use AI but may not feel confident enough to start from a blank prompt.
 
-This same idea could be adapted for business use cases such as:
+This can lead to:
 
-Customer support triage
-Product recommendations
-Internal knowledge assistants
-Guided service request forms
-What It Demonstrates
-Structured user input collection
-Basic requirements gathering
-Prompt design
-Python fundamentals
-Conditional logic
-Human-AI interaction
-Visual interface design
-AI-assisted recommendation workflow
-AI Governance Perspective
+- Generic answers
+- Incomplete requests
+- Inconsistent results
+- Low adoption of AI tools
+- Frustration for users who are not familiar with prompt writing
 
-This project also introduces a basic AI governance idea:
+---
 
-AI works better when inputs, prompts, and outputs are structured.
+## Solution
+
+This app solves that problem by creating a structured recommendation flow:
+
+**Choose a bot → Answer guided questions → Collect user requirements → Build AI context → Generate recommendation → Display result visually**
+
+Instead of asking the user to write a full prompt, the app guides the user step by step. This makes AI easier to use for people who may not have technical knowledge or prompt engineering experience.
+
+The value is not only using AI.  
+The value is making AI more accessible, structured, and useful for the user.
+
+---
+
+## Example
+
+In the **Cooking Bot**, the app asks:
+
+- What the user wants to cook
+- What ingredients they have
+- How many people they are cooking for
+- How much time they have
+
+Then the AI generates a recommendation based on that specific context instead of giving a generic answer.
+
+---
+
+## Business Analysis Perspective
+
+This project connects with business analysis because it simulates a basic requirements-gathering workflow.
+
+Before giving a solution, the system first collects the information needed to understand the user’s request.
+
+This same idea could be adapted to business use cases such as:
+
+- Customer support triage
+- Product recommendations
+- Internal knowledge assistants
+- Guided service request forms
+- Lead qualification
+- Employee self-service tools
+
+---
+
+## AI Adoption Perspective
+
+This project also shows how AI can be introduced to non-technical users in a guided way.
+
+In a business environment, not every employee knows how to write effective prompts. A guided workflow can help users interact with AI more confidently by asking simple questions and building the AI context automatically.
+
+This can support AI adoption because users do not need to understand prompt engineering to get value from the tool.
+
+---
+
+## AI Governance Perspective
+
+This project also reflects a basic AI governance concept: AI should work within clear inputs, controlled prompts, and defined outputs.
 
 The app controls:
 
-What information is collected
-How the prompt is built
-What type of response the AI should generate
-How the output is presented to the user
+- What information is collected
+- How the prompt is structured
+- What kind of response the AI should generate
+- How the result is presented to the user
 
-This helps make the output more consistent, useful, and appropriate.
+This helps make AI responses more consistent, useful, and appropriate.
 
-In a business environment, this matters because AI tools need clear rules, documentation, quality review, user feedback, and continuous improvement.
+---
 
-Example
+## Technologies
 
-In the Cooking Bot, the app asks:
+- Python
+- Stanford Code in Place graphics library
+- AI model integration
+- Prompt engineering
+- User input collection
+- Conditional logic
+- Visual interface design
 
-What the user wants to cook
-What ingredients they have
-How many people they are cooking for
-How much time they have
+---
 
-Then it generates a recommendation based on that context.
+## Key Takeaway
 
-Technologies
-Python
-Stanford Code in Place graphics library
-AI model integration
-Prompt engineering
-User input collection
-Visual interface design
-Key Takeaway
+The purpose of this project is not to replace ChatGPT.
 
-The value of this project is not only that it uses AI.
-
-The value is that it turns AI into a guided, structured, and reusable workflow.
-
+The purpose is to show how AI can be embedded into a guided, structured, and reusable workflow that helps non-technical users get better results with less effort.
 
 *******>*******************************************************
 ## Project 2 Carview UX/UI Prototype
