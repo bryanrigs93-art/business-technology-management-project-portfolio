@@ -14,36 +14,83 @@ AI-assisted learning and productivity
 Projects
 
 
-## Project 1 AI-Powered Information Collection Assistant with Python | Stanford Code in Place 2026
+AI Recommendation Hub
+Guided AI Recommendation Workflow with Python
 
-https://codeinplace.stanford.edu/cip6/share/J6FJ6MJSJVUpQU9jWySC
+Project link:
+https://codeinplace.stanford.edu/cip6/share/9hfUwN7XmlQN4cGAKO2G
 
-Developed a Python-based AI-assisted chatbot as part of the Stanford Code in Place 2026 program. This academic project collects user information through structured questions, processes the responses, and sends the collected data to an AI model to generate contextual answers.
+Overview
 
+AI Recommendation Hub is a Python project created during Stanford Code in Place 2026.
 
-The project demonstrates the complete flow of user input collection, data processing, AI integration, and response delivery. It serves as an introduction to how organizations can gather information and leverage AI-assisted systems to support decision-making and user interactions.
+The app lets users choose a recommendation assistant, answer a few guided questions, and receive a personalized AI-generated recommendation.
 
+The purpose of this project is not to replace ChatGPT. Instead, it shows how AI can be placed inside a structured workflow where the app collects the right inputs, prepares the context, and presents the result in a simple visual interface.
 
-Key Responsibilities:
+Why It Matters
 
-- Designed the user interaction flow and question sequence.
-- Collected and validated user inputs.
-- Integrated Python with an AI model to generate responses.
-- Processed user-provided information before AI analysis.
-- Presented AI-generated outputs to end users.
+Anyone can write a prompt in ChatGPT, but not every user knows what information to include.
 
-Technologies:
-Python, APIs, Prompt Engineering, User Input Validation, AI Integration.
+This project turns a blank prompt into a guided experience:
 
-Business Analysis Perspective:
+User selection → guided questions → input collection → AI prompt → personalized recommendation → visual output
 
-- Requirements gathering through structured questioning.
-- Information collection and processing.
-- Human-AI interaction design.
-- Decision-support workflow simulation.
-- Data capture for future analysis and reporting.
+This same idea could be adapted for business use cases such as:
 
-Academic project completed during Stanford Code in Place 2026. Certificate completion requirements have been fulfilled and official certificate issuance is mid june
+Customer support triage
+Product recommendations
+Internal knowledge assistants
+Guided service request forms
+What It Demonstrates
+Structured user input collection
+Basic requirements gathering
+Prompt design
+Python fundamentals
+Conditional logic
+Human-AI interaction
+Visual interface design
+AI-assisted recommendation workflow
+AI Governance Perspective
+
+This project also introduces a basic AI governance idea:
+
+AI works better when inputs, prompts, and outputs are structured.
+
+The app controls:
+
+What information is collected
+How the prompt is built
+What type of response the AI should generate
+How the output is presented to the user
+
+This helps make the output more consistent, useful, and appropriate.
+
+In a business environment, this matters because AI tools need clear rules, documentation, quality review, user feedback, and continuous improvement.
+
+Example
+
+In the Cooking Bot, the app asks:
+
+What the user wants to cook
+What ingredients they have
+How many people they are cooking for
+How much time they have
+
+Then it generates a recommendation based on that context.
+
+Technologies
+Python
+Stanford Code in Place graphics library
+AI model integration
+Prompt engineering
+User input collection
+Visual interface design
+Key Takeaway
+
+The value of this project is not only that it uses AI.
+
+The value is that it turns AI into a guided, structured, and reusable workflow.
 
 
 *******>*******************************************************
