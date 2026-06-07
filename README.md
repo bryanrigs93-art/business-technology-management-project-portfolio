@@ -1,18 +1,23 @@
 ## Bryan Bodegas | Project Portfolio Created 6/02/2026
 
-Hi, I'm Bryan Bodegas, a Business Technology Management student building practical experience in business technology, data analytics, workflow documentation, and AI-assisted productivity.
 
-This portfolio is currently being organized and will include selected projects from my academic work, personal learning, and practical exercises you might still find some in spanish as they are acqdemic activitties I made before but new projects in english and updated with current knowledge wil he uploaded soon.
+Hi, I’m Bryan Bodegas, a **Business Technology Management** student building practical experience in business technology, data analytics, workflow documentation, process improvement, and AI-assisted productivity.
 
-** Current Focus
-Business Technology Management
-Data Analytics and Business Intelligence
-Python fundamentals
-Workflow documentation
-Process improvement
-AI-assisted learning and productivity
-Projects
+This portfolio is currently being organized. It will include selected projects from my academic work, personal learning, and practical exercises.
 
+Some earlier projects may still be in Spanish because they were created for academic activities. New and updated projects will be documented in English and will reflect my current knowledge and skills.
+
+
+## Current Focus
+- Business Technology Management
+- Data Analytics and Business Intelligence
+- Python fundamentals
+- Workflow documentation
+- Process improvement
+- AI-assisted learning and productivity
+- AI governance
+- Business analysis
+- Technology implementation
 
 # AI Recommendation Hub
 ![Stanford](https://img.shields.io/badge/Stanford-Code%20in%20Place-red)
@@ -20,7 +25,7 @@ Projects
 ![AI](https://img.shields.io/badge/AI-Recommendation%20Workflow-purple)
 ![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Requirements%20Gathering-green)
 
-## Turning ChatGPT into a Guided Recommendation Workflow
+## Turning AI into a Guided Recommendation Workflow
 
 **Project link:**  
 
@@ -32,8 +37,7 @@ https://codeinplace.stanford.edu/cip6/share/9hfUwN7XmlQN4cGAKO2G
 
 AI Recommendation Hub is a Python project created during **Stanford Code in Place 2026**.
 
-The project demonstrates how a simple app can turn a blank AI prompt into a guided workflow. Instead of expecting users to know exactly what to ask ChatGPT, the app guides them through specific questions, collects their inputs, organizes the context, and sends that information to an AI model to generate a personalized recommendation.
-
+This project demonstrates how a simple app can make AI easier to use by turning an open-ended prompt into a guided workflow. Instead of expecting users, especially non-technical users, to know how to structure a request, the app asks specific questions, collects the necessary inputs, organizes the context, and sends that information to an AI model to generate a personalized recommendation.
 ---
 
 ## Problem
