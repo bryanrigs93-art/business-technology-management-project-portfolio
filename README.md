@@ -38,7 +38,7 @@ https://codeinplace.stanford.edu/cip6/share/9hfUwN7XmlQN4cGAKO2G
 AI Recommendation Hub is a Python project created during **Stanford Code in Place 2026**.
 
 This project demonstrates how a simple app can make AI easier to use by turning an open-ended prompt into a guided workflow. Instead of expecting users, especially non-technical users, to know how to structure a request, the app asks specific questions, collects the necessary inputs, organizes the context, and sends that information to an AI model to generate a personalized recommendation.
----
+
 
 ## Problem
 
