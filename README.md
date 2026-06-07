@@ -37,7 +37,7 @@ https://codeinplace.stanford.edu/cip6/share/9hfUwN7XmlQN4cGAKO2G
 
 AI Recommendation Hub is a Python project created during **Stanford Code in Place 2026**.
 
-This project demonstrates how a simple app can make AI easier to use by turning an open-ended prompt into a guided workflow. Instead of expecting users, especially non-technical users, to know how to structure a request, the app asks specific questions, collects the necessary inputs, organizes the context, and sends that information to an AI model to generate a personalized recommendation.
+This project is a guided generative AI recommendation workflow demonstrates how a simple app can make AI easier to use by turning an open-ended prompt into a guided workflow. Instead of expecting users, especially non-technical users, to know how to structure a request, the app asks specific questions, collects the necessary inputs, organizes the context, and sends that information to an AI model to generate a personalized recommendation.
 
 
 ## Problem
@@ -143,7 +143,7 @@ The purpose of this project is not to replace ChatGPT.
 The purpose is to show how AI can be embedded into a guided, structured, and reusable workflow that helps non-technical users get better results with less effort.
 
 *******>*******************************************************
-## Project 2 Carview UX/UI Prototype
+# Project 2 Carview UX/UI Prototype
 
 Carview is an academic digital product prototype created for a Digital Product Design and Development course last year with team mates to get used to process and learning tools. The project explores the idea of a car marketplace app where users can compare imported vehicles, review basic vehicle information, and start a safer purchase process.
 
