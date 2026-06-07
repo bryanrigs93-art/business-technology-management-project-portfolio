@@ -82,13 +82,13 @@ Then the AI generates a recommendation based on that specific context instead of
 
 ---
 
-## Business Analysis Perspective
+## Business Perspective
 
-This project connects with business analysis because it simulates a basic requirements-gathering workflow.
+This project connects with business technology because it shows how generative AI can be embedded into a guided workflow for non-technical users.
 
-Before giving a solution, the system first collects the information needed to understand the user’s request.
+In a company, not every employee knows how to write effective prompts. A structured chatbot-style tool can help users provide the right information step by step, reduce confusion, and generate more useful AI outputs.
 
-This same idea could be adapted to business use cases such as:
+This type of workflow could be adapted for business use cases such as:
 
 - Customer support triage
 - Product recommendations
@@ -96,6 +96,8 @@ This same idea could be adapted to business use cases such as:
 - Guided service request forms
 - Lead qualification
 - Employee self-service tools
+
+The business value is not only the AI response. The value is creating a repeatable process that helps users collect information, standardize requests, improve adoption, and reduce friction when using AI tools.
 
 ---
 
@@ -138,9 +140,8 @@ This helps make AI responses more consistent, useful, and appropriate.
 
 ## Key Takeaway
 
-The purpose of this project is not to replace ChatGPT.
 
-The purpose is to show how AI can be embedded into a guided, structured, and reusable workflow that helps non-technical users get better results with less effort.
+The purpose of this project is to demonstrate how chatbot-style tools can be enhanced with generative AI. By guiding non-technical users through structured questions, the app reduces the need for prompt-writing experience and makes AI easier to use in a creative, practical, and reusable way.
 
 *******>*******************************************************
 # Project 2 Carview UX/UI Prototype
