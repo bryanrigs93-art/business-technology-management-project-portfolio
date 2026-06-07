@@ -11,7 +11,6 @@ Some earlier projects may still be in Spanish because they were created for acad
 ## Current Focus
 - Business Technology Management
 - Data Analytics and Business Intelligence
-- Python fundamentals
 - Workflow documentation
 - Process improvement
 - AI-assisted learning and productivity
@@ -25,7 +24,7 @@ Some earlier projects may still be in Spanish because they were created for acad
 ![AI](https://img.shields.io/badge/AI-Recommendation%20Workflow-purple)
 ![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Requirements%20Gathering-green)
 
-## Turning AI into a Guided Recommendation Workflow
+
 
 **Project link:**  
 
@@ -44,7 +43,7 @@ This project is a guided generative AI recommendation workflow demonstrates how 
 
 ##Why this project?
 
-Generative AI can produce excellent recommendations, but results depend heavily on how users provide a logical context. This prototype demonstrates how guided workflows can help non-technical users provide better inputs and receive more relevant recommendations.
+Generative AI can produce excellent recommendations, but results depend heavily on how users provide a logical context. This prototype demonstrates how guided workflows can help non-technical users  provide better inputs and receive more relevant recommendations so the user does not start from a blank prompt.
 
 ## Problem
 
