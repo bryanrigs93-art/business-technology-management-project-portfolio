@@ -29,9 +29,11 @@ Some earlier projects may still be in Spanish because they were created for acad
 
 **Project link:**  
 
+Prototype:
 https://codeinplace.stanford.edu/cip6/share/9hfUwN7XmlQN4cGAKO2G
 
----
+Workflow Diagram:
+https://miro.com/app/board/uXjVHIlDVRg=/?share_link_id=127257249647
 
 ## Overview
 
@@ -39,6 +41,10 @@ AI Recommendation Hub is a Python project created during **Stanford Code in Plac
 
 This project is a guided generative AI recommendation workflow demonstrates how a simple app can make AI easier to use by turning an open-ended prompt into a guided workflow. Instead of expecting users, especially non-technical users, to know how to structure a request, the app asks specific questions, collects the necessary inputs, organizes the context, and sends that information to an AI model to generate a personalized recommendation.
 
+
+##Why this project?
+
+Generative AI can produce excellent recommendations, but results depend heavily on how users provide a logical context. This prototype demonstrates how guided workflows can help non-technical users provide better inputs and receive more relevant recommendations.
 
 ## Problem
 
@@ -144,7 +150,7 @@ This helps make AI responses more consistent, useful, and appropriate.
 The purpose of this project is to demonstrate how chatbot-style tools can be enhanced with generative AI. By guiding non-technical users through structured questions, the app reduces the need for prompt-writing experience and makes AI easier to use in a creative, practical, and reusable way.
 
 *******>*******************************************************
-# Project 2 Carview UX/UI Prototype
+# Project 2: Carview UX/UI Prototype
 
 Carview is an academic digital product prototype created for a Digital Product Design and Development course last year with team mates to get used to process and learning tools. The project explores the idea of a car marketplace app where users can compare imported vehicles, review basic vehicle information, and start a safer purchase process.
 
@@ -154,20 +160,26 @@ This is an early UX/UI and front-end prototype, not a fully functional productio
 
 This project was developed as part of an academic process that included product planning, visual organization, workflow tracking, user feedback collection, documentation, and prototype presentation.
 
-## Tools Used and Purpose
-
-* **Miro:** Used to organize the Business Model Canvas, Value Proposition Canvas, Empathy Map Canvas, key metrics, customer segments, channels, resources, costs, and revenue ideas for the Carview concept.
-
-* **Trello:** Used as a project task board to organize work stages such as planning, backlog, in progress, pending support, completed tasks, and final links/documents.
-
-* **Notion:** Used to document important notes, meeting outcomes, project information, -
-= supporting materials in one organized workspace.
-
-* **Google Forms:** Used to collect feedback from users and evaluate the prototype from a user perspective.
-
-* **Canva:** Used to create the Carview logo, visual presentation materials, Instagram survey post, and final presentation video.
+## Tools Used and Project links:
 
 * **CodePen:** Used to publish and test the interactive front-end prototype.
+           [Carview Live Demo - CodePen](https://codepen.io/Rigs-the-bashful/full/yyYdqZm)
+
+* **Google Forms:** Used to collect feedback from users and evaluate the prototype from a user perspective.
+           [Carview Feedback Survey - Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSe4nSFc0Nx8SiVEnGCDSHp0rg9QYZRWi3n4D_xTKbadAiSz5A/viewform)
+
+* **Miro:** Used to organize the Business Model Canvas, Value Proposition Canvas, Empathy Map Canvas, key metrics, customer segments, channels, resources, costs, and revenue ideas for the Carview concept.
+            [Carview Business Model and Process Map - Miro](https://miro.com/app/board/uXjVJRTyToo=/?share_link_id=915431195015)
+
+* **Trello:** Used as a project task board to organize work stages such as planning, backlog, in progress, pending support, completed tasks, and final links/documents.
+            [Carview Task Board - Trello](https://trello.com/invite/b/68a7b7affe64bf3e4e7825f3/ATTI4c217fa81da139c3f1f1d91c70292ad95DF68173/carview)
+  
+* **Notion:** Used to document important notes, meeting outcomes, project information, supporting materials in one organized workspace.
+            [Carview UX/UI Prototype Documentation - Notion](https://www.notion.so/Digital-Product-Design-and-Development-28341280cc1c8068a56adaa8c2e40b49)
+
+* **Canva:** Used to create the Carview logo, visual presentation materials, Instagram survey post, and final presentation video.
+            [Carview Presentation Video - Canva](https://www.canva.com/design/DAG1oV1QXfQ/441u29Uq0VWBj97nZPSYOw/watch) | 
+            [Carview Instagram Survey Post - Canva](https://www.canva.com/design/DAGzAQOYS80/hWbhDcbPw7HlR9HpoERKjw/view?utm_content=DAGzAQOYS80&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf784f69a2c)
 
 * **HTML, CSS, and JavaScript:** vibe coding with codex, Used to build the prototype interface and basic interactions.
 
@@ -188,17 +200,8 @@ The presentation video was created to explain the Carview concept in a clear and
 * Visual storytelling
 * Academic project documentation
 
-## Project Links
 
-* [Carview Feedback Survey - Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSe4nSFc0Nx8SiVEnGCDSHp0rg9QYZRWi3n4D_xTKbadAiSz5A/viewform)
-* [Carview Instagram Survey Post - Canva](https://www.canva.com/design/DAGzAQOYS80/hWbhDcbPw7HlR9HpoERKjw/view?utm_content=DAGzAQOYS80&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf784f69a2c)
-* [Carview Presentation Video - Canva](https://www.canva.com/design/DAG1oV1QXfQ/441u29Uq0VWBj97nZPSYOw/watch)
-* [Carview Task Board - Trello](https://trello.com/invite/b/68a7b7affe64bf3e4e7825f3/ATTI4c217fa81da139c3f1f1d91c70292ad95DF68173/carview)
-* [Carview UX/UI Prototype Documentation - Notion](https://www.notion.so/Digital-Product-Design-and-Development-28341280cc1c8068a56adaa8c2e40b49)
-* [Carview Business Model and Process Map - Miro](https://miro.com/app/board/uXjVJRTyToo=/?share_link_id=915431195015)
-* [Carview Live Demo - CodePen](https://codepen.io/Rigs-the-bashful/full/yyYdqZm)
-
-## Project 3 SQL Server Database Installation and Data Modeling Project | ESI School of Management
+# Project 3: SQL Server Database Installation and Data Modeling Project | ESI School of Management
 
 Successfully installed and configured Microsoft SQL Server Express and SQL Server Management Studio (SSMS) as part of a database systems laboratory project.
 
@@ -236,7 +239,7 @@ Business Analysis Perspective:
 
 Academic project completed as part of the Database Models course at ESI School of Management.
 
-## Project 4 Descriptive Data Analysis and Data Cleaning Project | ESI School of Management
+# Project 4: Descriptive Data Analysis and Data Cleaning Project | ESI School of Management
 
 Completed an academic data analysis project using Excel to review, clean, summarize, visualize, and interpret a structured dataset. The project focused on understanding the dataset, calculating descriptive statistics, creating summary tables, building charts, and presenting business insights through a short video presentation.
 
@@ -277,7 +280,7 @@ Visual storytelling with data.
 Academic project completed as part of a data analysis activity at ESI School of Management.
 
 
-## Project 5 Data Analysis with Python on Google Collab, Pandas, and Power BI ESI School of Management
+# Project 5: Data Analysis with Python on Google Collab, Pandas, and Power BI ESI School of Management
 
 
 Completed an academic data analysis project focused on exploring, filtering, aggregating, transforming, and visualizing structured business data using Python, Pandas, NumPy, and Power BI.
