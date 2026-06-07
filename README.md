@@ -19,7 +19,7 @@ Some earlier projects may still be in Spanish because they were created for acad
 - Business analysis
 - Technology implementation
 
-# AI Recommendation Hub
+# Project 1:  AI Recommendation Hub
 ![Stanford](https://img.shields.io/badge/Stanford-Code%20in%20Place-red)
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
 ![AI](https://img.shields.io/badge/AI-Recommendation%20Workflow-purple)
