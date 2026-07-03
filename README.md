@@ -37,7 +37,6 @@ Enlace usado como apoyo para la presentación del proyecto:
 
 https://canva.link/4t7szd1apthwldm
 
-Más adelante puedo reemplazarlo por una presentación propia del proyecto con capturas del Excel, gráficos e insights finales.
 
 ---
 
@@ -115,7 +114,7 @@ Este proyecto muestra mi base inicial en Excel aplicado a análisis de datos y m
 
 ## Nota ética sobre los datos
 
-Este proyecto fue realizado con fines académicos y de portafolio. Como el tema del archivo es de pacientes, la información debe tratarse con cuidado. En un caso real, antes de publicar un proyecto de este tipo sería necesario anonimizar cualquier dato personal o sensible.
+Este proyecto fue realizado con fines académicos y de portafolio totalmente ficticios. En un caso real, antes de publicar un proyecto de este tipo sería necesario anonimizar cualquier dato personal o sensible.
 
 ---
 
