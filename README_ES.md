@@ -6,15 +6,11 @@ Mi objetivo es documentar proyectos pequeños, pero bien explicados, que muestre
 
 ---
 
-# Proyecto Excel: Limpieza y análisis descriptivo bilingüe
+# Proyecto Excel: Limpieza y análisis descriptivo de datos
 
-Este es uno de mis primeros proyectos principales de Excel para portafolio. Trabajé con dos archivos académicos de Excel: uno enfocado en limpieza y calidad de datos, y otro enfocado en análisis descriptivo, tablas resumen y gráficos.
+Este es uno de mis primeros proyectos principales de Excel para portafolio. Trabajé con dos archivos académicos de Excel: uno enfocado en limpieza y calidad de datos, y otro enfocado en análisis descriptivo, tablas resumen, tablas dinámicas y gráficos.
 
-El dataset original fue trabajado en español. Después de completar el proceso de limpieza y análisis, preparé una versión en inglés traduciendo los elementos que más importan para comunicar resultados: nombres de hojas, encabezados de columnas, campos de tablas dinámicas, etiquetas de resumen, estadísticas, títulos del dashboard y categorías de gráficos.
-
-La idea es mostrar que puedo tomar datos desde un contexto en español y adaptar la capa final de reporte al idioma que necesitan los stakeholders.
-
-El proyecto está disponible en inglés y español.
+El proyecto está disponible en inglés y español. La versión en inglés mantiene los elementos de reporte en inglés para que el dashboard, las tablas resumen, las estadísticas y las etiquetas de gráficos puedan revisarse más fácilmente por stakeholders de habla inglesa.
 
 ## Estructura del proyecto
 
@@ -38,7 +34,7 @@ https://canva.link/4t7szd1apthwldm
 
 ## Qué hice
 
-El proyecto tiene tres partes.
+El proyecto tiene dos partes principales.
 
 ### 1. Limpieza y control de calidad de datos
 
@@ -65,12 +61,6 @@ Creé:
 - Gráficos para visualizar patrones.
 - Una interpretación breve de los resultados.
 
-### 3. Adaptación de idioma para stakeholders
-
-Después de construir la versión en español, adapté la capa de reporte al inglés. No se trató solo de traducir el nombre del archivo, sino de traducir lo que realmente lee una persona al revisar el análisis: dashboard, tablas dinámicas, gráficos, estadísticas y nombres de campos.
-
-Esto hace que el proyecto sea más realista, porque en muchos entornos de negocio los datos pueden venir en un idioma, pero los reportes, dashboards o presentaciones deben entregarse en otro.
-
 ---
 
 ## Aprendizajes principales
@@ -80,19 +70,19 @@ Esto hace que el proyecto sea más realista, porque en muchos entornos de negoci
 - Excel es útil para análisis inicial y reporting.
 - Las tablas resumen ayudan a comparar categorías.
 - Los gráficos deben apoyar la explicación, no solo decorar el archivo.
-- Un dataset puede adaptarse para otra audiencia traduciendo la capa de reporte, no solo el nombre del archivo.
+- Los elementos de reporte pueden adaptarse al idioma que necesita la audiencia.
 
 ---
 
 ## Cómo explicaría este proyecto en una entrevista
 
-Trabajé con dos archivos de Excel originalmente en español. Primero revisé la calidad de los datos buscando valores faltantes, duplicados, inconsistencias y errores lógicos. Después documenté los problemas encontrados y las correcciones aplicadas.
+Trabajé con dos archivos de Excel. Primero revisé la calidad de los datos buscando valores faltantes, duplicados, inconsistencias y errores lógicos. Después documenté los problemas encontrados y las correcciones aplicadas.
 
 Luego utilicé otro archivo para realizar análisis descriptivo. Calculé estadísticas básicas, preparé tablas resumen, construí gráficos y redacté una explicación corta de los resultados.
 
-Finalmente, preparé una versión en inglés enfocada en comunicación para stakeholders. Traduje los elementos clave usados en el dashboard, tablas dinámicas, gráficos y estadísticas para que el análisis pudiera entenderse por una audiencia de habla inglesa.
+También preparé una versión en inglés de la capa de reporte para que los resultados principales pudieran revisarse por stakeholders de habla inglesa.
 
-Este proyecto muestra mi base inicial en Excel aplicado al análisis de datos, mi atención a la calidad de datos y mi capacidad para adaptar reportes a diferentes audiencias de negocio.
+Este proyecto muestra mi base inicial en Excel aplicado al análisis de datos, mi atención a la calidad de datos y mi interés en avanzar hacia Business Intelligence.
 
 ---
 
@@ -111,7 +101,7 @@ Este proyecto muestra mi base inicial en Excel aplicado al análisis de datos, m
 
 ## Nota sobre los datos
 
-Este proyecto se presenta con fines académicos y de portafolio. Los archivos se tratan como datos de práctica para aprender Excel, limpieza de datos, análisis descriptivo y reporting bilingüe.
+Este proyecto se presenta con fines académicos y de portafolio. Los archivos se tratan como datos de práctica para aprender Excel, limpieza de datos y análisis descriptivo.
 
 ---
 
