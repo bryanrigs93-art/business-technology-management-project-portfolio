@@ -6,15 +6,11 @@ My goal is to document small projects that show how I work with data: reviewing 
 
 ---
 
-# Excel Project: Bilingual Data Cleaning and Descriptive Analysis
+# Excel Project: Data Cleaning and Descriptive Analysis
 
-This is one of my first main Excel projects for my data analytics portfolio. I worked with two academic Excel files: one focused on data quality and cleaning, and another focused on descriptive analysis, summary tables, and charts.
+This is one of my first main Excel projects for my data analytics portfolio. I worked with two academic Excel files: one focused on data quality and cleaning, and another focused on descriptive analysis, summary tables, pivot tables, and charts.
 
-The original dataset was worked in Spanish. After completing the cleaning and analysis process, I prepared an English version of the workbook by translating the elements that matter most for business communication: worksheet names, column headers, pivot table fields, summary labels, statistics, dashboard titles, and chart categories.
-
-The purpose was to show that I can take data from one language context and adapt the final reporting layer to the language needed by stakeholders.
-
-The project is available in English and Spanish.
+The project is available in English and Spanish. The English workbook keeps the reporting elements in English so the dashboard, summary tables, statistics, and chart labels can be reviewed more easily by English-speaking stakeholders.
 
 ## Project Structure
 
@@ -44,7 +40,7 @@ https://canva.link/4t7szd1apthwldm
 
 ## What I did
 
-The project has three parts.
+The project has two main parts.
 
 ### 1. Data Quality and Cleaning
 
@@ -71,12 +67,6 @@ I created:
 - Charts to visualize patterns.
 - A short interpretation of the results.
 
-### 3. Language Adaptation for Stakeholders
-
-After building the Spanish version, I adapted the reporting layer into English. I focused on the parts that a stakeholder would actually read when reviewing the analysis: dashboard titles, pivot tables, chart labels, statistics, and field names.
-
-This makes the project more realistic because many business environments collect data in one language but require reports, dashboards, or presentations in another language.
-
 ---
 
 ## Main Learnings
@@ -86,19 +76,19 @@ This makes the project more realistic because many business environments collect
 - Excel is useful for early data analysis and reporting.
 - Summary tables help compare categories.
 - Charts should support the explanation, not just decorate the workbook.
-- A dataset can be adapted for another audience by translating the reporting layer, not only the file name.
+- Reporting elements can be adapted to the language needed by the audience.
 
 ---
 
 ## How I would explain this project in an interview
 
-I worked with two Excel files originally prepared in Spanish. First, I reviewed the data quality by checking missing values, duplicates, inconsistent values, and logical errors. Then I documented the issues and the corrections applied.
+I worked with two Excel files. First, I reviewed the data quality by checking missing values, duplicates, inconsistent values, and logical errors. Then I documented the issues and the corrections applied.
 
 After that, I used another workbook for descriptive analysis. I calculated basic statistics, created summary tables, built charts, and prepared a short explanation of the results.
 
-Finally, I prepared an English version focused on stakeholder communication. I translated the key elements used in the dashboard, pivot tables, charts, and statistics so the analysis could be understood by an English-speaking audience.
+I also prepared an English version of the reporting layer so the key outputs could be reviewed by English-speaking stakeholders.
 
-This project shows my early foundation in Excel for data analytics, my attention to data quality, and my ability to adapt reporting outputs for different business audiences.
+This project shows my early foundation in Excel for data analytics, my attention to data quality, and my interest in growing toward Business Intelligence.
 
 ---
 
@@ -117,7 +107,7 @@ This project shows my early foundation in Excel for data analytics, my attention
 
 ## Data Note
 
-This project is for academic and portfolio purposes. The files are treated as practice data for learning Excel, data cleaning, descriptive analysis, and bilingual reporting.
+This project is for academic and portfolio purposes. The files are treated as practice data for learning Excel, data cleaning, and descriptive analysis.
 
 ---
 
