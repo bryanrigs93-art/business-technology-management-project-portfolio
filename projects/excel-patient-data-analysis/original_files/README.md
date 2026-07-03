@@ -4,7 +4,7 @@ Este proyecto presenta una actividad práctica de Excel enfocada en **limpieza d
 
 El objetivo fue trabajar con archivos de datos de pacientes en Excel para revisar la calidad del dataset, detectar anomalías, aplicar correcciones, crear estadísticas básicas, construir tablas resumen y preparar una explicación clara para una presentación corta.
 
-> Nota: este proyecto se presenta con fines académicos y de portafolio. Si los datos fueran reales, no deberían publicarse con nombres, fechas de nacimiento u otra información identificable.
+> Nota: este proyecto se presenta con fines académicos y de portafolio. Estos datos son totalmente ficticios solamente para fines academicos.
 
 ## Enlace de presentación en Canva
 
