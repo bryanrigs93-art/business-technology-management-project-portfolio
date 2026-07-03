@@ -1,159 +1,131 @@
 # Business Technology Management Project Portfolio
 
-Este repositorio contiene proyectos prácticos relacionados con Business Technology Management, análisis de datos, Excel, documentación de procesos y toma de decisiones basada en datos.
+Este repositorio es mi espacio para ir dejando evidencia de proyectos prácticos relacionados con Business Technology Management, análisis de datos, Excel, documentación y Business Intelligence.
 
-## Proyecto principal: Análisis y limpieza de datos en Excel
+No quiero que este portafolio se vea como una lista de tareas sueltas. La idea es ir construyendo proyectos pequeños, pero bien explicados, que muestren cómo trabajo con datos desde lo básico: revisar archivos, detectar errores, ordenar información, resumir resultados y explicar hallazgos de forma clara.
 
-Este proyecto documenta dos actividades realizadas en Excel usando conjuntos de datos académicos. El objetivo fue practicar un flujo básico de análisis de datos: revisión inicial, detección de errores, corrección de datos, estadísticas descriptivas, tablas resumen, gráficos e interpretación de resultados.
+---
 
-### Archivos del proyecto
+# Proyecto Excel: Limpieza y análisis de datos de pacientes
 
-Los archivos originales del proyecto deben colocarse en la siguiente carpeta:
+Este es uno de mis primeros proyectos principales en Excel para portafolio. Lo trabajé a partir de dos actividades académicas: una enfocada en limpieza de datos y otra enfocada en análisis descriptivo.
+
+Lo estoy dejando aquí porque representa bien el tipo de habilidad que quiero fortalecer: no solo usar Excel para hacer tablas, sino usarlo como una herramienta para revisar calidad de datos, documentar cambios, crear resúmenes y explicar conclusiones.
+
+## Archivos del proyecto
+
+Los archivos están ubicados en:
 
 ```text
 projects/excel-patient-data-analysis/original_files/
 ```
 
-Archivos esperados:
+Nombres usados para el proyecto:
 
 ```text
-Actividad_Analisis_Datos_Pacientes_corregido.xlsx
-Datos_Ejemplo_Corregido.xlsx
+01_limpieza_calidad_datos.xlsx
+02_analisis_pacientes_excel.xlsx
 ```
 
-### Enlace de presentación en Canva
+> Nota: los archivos originales fueron trabajados primero con nombres académicos. Los renombré en el repositorio para que se entiendan mejor dentro del portafolio.
 
-Presentación / recurso usado para apoyar la explicación del proyecto:
+---
+
+## Presentación en Canva
+
+Enlace usado como apoyo para la presentación del proyecto:
 
 https://canva.link/4t7szd1apthwldm
 
-> Nota: si se crea una presentación final propia en Canva, este enlace puede reemplazarse por el enlace público de la presentación final.
+Más adelante puedo reemplazarlo por una presentación propia del proyecto con capturas del Excel, gráficos e insights finales.
 
 ---
 
-## 1. Objetivo del proyecto
+## Qué hice en este proyecto
 
-El objetivo del proyecto fue aplicar técnicas básicas de análisis de datos en Excel para revisar, limpiar, resumir y visualizar información. El proyecto se enfocó en demostrar habilidades iniciales útiles para roles de Data Analyst, BI Assistant o Business Technology Management.
+El proyecto tiene dos partes.
 
-Las actividades principales fueron:
+### 1. Limpieza y control de calidad de datos
 
-- Revisar la estructura de los datos.
-- Identificar valores faltantes, duplicados o inconsistentes.
-- Documentar errores encontrados.
-- Aplicar correcciones o criterios de limpieza.
-- Calcular estadísticas básicas.
-- Crear tablas resumen.
-- Generar gráficos para interpretar patrones.
-- Redactar conclusiones del análisis.
+En el primer archivo revisé un conjunto de datos para encontrar problemas comunes antes de hacer cualquier análisis.
 
----
+Trabajé en:
 
-## 2. Descripción de los archivos
-
-### Archivo 1: Datos_Ejemplo_Corregido.xlsx
-
-Este archivo se utilizó para practicar limpieza de datos. La actividad consistió en revisar un conjunto de datos, detectar errores y documentar las correcciones realizadas.
-
-Trabajo realizado:
-
-- Revisión inicial del dataset.
-- Identificación de valores faltantes.
+- Revisión inicial de columnas y estructura.
+- Búsqueda de valores vacíos.
 - Revisión de registros duplicados.
-- Detección de inconsistencias.
-- Documentación de errores en una hoja específica.
-- Documentación de correcciones aplicadas.
-- Verificación final de calidad.
+- Identificación de datos inconsistentes.
+- Documentación de errores encontrados.
+- Registro de correcciones aplicadas.
+- Validación final para confirmar que el archivo quedara más ordenado.
 
-### Archivo 2: Actividad_Analisis_Datos_Pacientes_corregido.xlsx
+Esta parte me ayudó a entender que analizar datos no empieza con gráficos. Primero hay que revisar si la información tiene sentido.
 
-Este archivo se utilizó para análisis descriptivo en Excel. La actividad consistió en explorar datos de pacientes, calcular estadísticas, crear tablas resumen y generar gráficos.
+### 2. Análisis descriptivo en Excel
 
-Trabajo realizado:
+En el segundo archivo trabajé con datos de pacientes para practicar análisis descriptivo.
 
-- Revisión preliminar de columnas y tipos de datos.
-- Cálculo de estadísticas básicas como conteo, promedio, mínimo y máximo.
-- Creación de tablas resumen.
-- Generación de gráficos para visualizar patrones.
-- Interpretación de resultados principales.
-- Preparación de conclusiones para presentación.
+Realicé:
+
+- Estadísticas básicas como conteo, promedio, mínimo y máximo.
+- Tablas resumen para comparar categorías.
+- Gráficos para visualizar patrones.
+- Revisión de posibles datos atípicos.
+- Interpretación de resultados para explicar el análisis en una presentación corta.
+
+Aquí el objetivo fue convertir una tabla grande en información más fácil de leer y explicar.
 
 ---
 
-## 3. Herramientas utilizadas
+## Insights y aprendizajes
+
+Estos fueron los puntos más importantes que me dejó el proyecto:
+
+- Antes de analizar, es necesario revisar la calidad del archivo.
+- Las hojas de errores y correcciones ayudan a dejar evidencia del proceso.
+- Excel sigue siendo una herramienta fuerte para análisis inicial, especialmente cuando se usan filtros, tablas dinámicas y gráficos.
+- Las estadísticas básicas ayudan a entender rápidamente el comportamiento general de los datos.
+- Los gráficos no sirven solo para decorar: deben ayudar a explicar una tendencia o una comparación.
+- Un análisis pequeño puede verse más profesional si está bien documentado.
+
+---
+
+## Cómo explicaría este proyecto en una entrevista
+
+Trabajé con dos archivos de Excel. Primero hice una revisión de calidad de datos, buscando errores, valores faltantes, duplicados e inconsistencias. Después documenté los problemas encontrados y las correcciones realizadas.
+
+Luego usé otro archivo para hacer análisis descriptivo. Calculé estadísticas básicas, preparé tablas resumen y generé gráficos para interpretar los datos. El objetivo fue practicar un flujo completo: revisar, limpiar, resumir, visualizar y explicar resultados.
+
+Este proyecto muestra mi base inicial en Excel aplicado a análisis de datos y mi interés en seguir avanzando hacia Data Analytics y Business Intelligence.
+
+---
+
+## Herramientas utilizadas
 
 - Microsoft Excel
-- Tablas de datos
 - Filtros y ordenamiento
 - Fórmulas básicas
+- Tablas resumen
 - Tablas dinámicas
-- Gráficos de Excel
-- Canva para apoyo visual en presentación
-- GitHub para documentación del proyecto
+- Gráficos
+- Canva
+- GitHub
 
 ---
 
-## 4. Metodología
+## Nota ética sobre los datos
 
-### Paso 1: Revisión inicial
-
-Primero revisé las columnas disponibles, los tipos de datos y la estructura general de cada archivo. Esto me permitió entender qué información contenía cada dataset y qué tipo de análisis podía realizarse.
-
-### Paso 2: Identificación de problemas de calidad
-
-Después examiné los datos para encontrar posibles errores, como celdas vacías, datos duplicados, valores inconsistentes o registros que necesitaban revisión.
-
-### Paso 3: Documentación de errores y correcciones
-
-Los errores encontrados fueron documentados en hojas separadas para dejar evidencia del proceso de limpieza. También se documentaron las correcciones aplicadas, con el objetivo de mantener trazabilidad.
-
-### Paso 4: Estadísticas descriptivas
-
-Se calcularon medidas básicas como conteos, promedios, mínimos y máximos. Estas métricas ayudaron a resumir el comportamiento general del dataset.
-
-### Paso 5: Tablas resumen y gráficos
-
-Se agruparon datos por categorías relevantes para identificar patrones. Luego se crearon gráficos para comunicar los resultados de forma visual.
-
-### Paso 6: Interpretación de resultados
-
-Finalmente, se redactaron conclusiones basadas en las tablas y gráficos creados. Esta etapa permitió convertir los datos en información útil para explicar tendencias y posibles hallazgos.
+Este proyecto fue realizado con fines académicos y de portafolio. Como el tema del archivo es de pacientes, la información debe tratarse con cuidado. En un caso real, antes de publicar un proyecto de este tipo sería necesario anonimizar cualquier dato personal o sensible.
 
 ---
 
-## 5. Insights principales
+## Próximas mejoras
 
-A partir del análisis realizado, se pueden destacar los siguientes aprendizajes:
+Este proyecto todavía puede mejorar. Algunas ideas para una segunda versión son:
 
-- La calidad de datos es una etapa fundamental antes de realizar análisis.
-- Documentar errores y correcciones ayuda a mantener un proceso ordenado y verificable.
-- Las estadísticas básicas permiten entender rápidamente el comportamiento de un dataset.
-- Las tablas resumen ayudan a comparar categorías y detectar patrones.
-- Los gráficos facilitan la presentación de resultados a personas no técnicas.
-- Excel puede utilizarse como una herramienta inicial muy útil para análisis descriptivo y reporting.
-
----
-
-## 6. Explicación breve del proyecto
-
-En este proyecto trabajé con dos archivos de Excel. El primero fue utilizado para practicar limpieza de datos, identificando errores, duplicados, valores faltantes e inconsistencias. El segundo fue utilizado para realizar análisis descriptivo, creando estadísticas básicas, tablas resumen y gráficos. El objetivo fue demostrar un proceso básico de análisis de datos desde la revisión inicial hasta la presentación de resultados.
-
-Este proyecto representa una base inicial para mi portafolio de Data Analytics y Business Intelligence, mostrando habilidades prácticas en Excel, organización de datos, documentación e interpretación de información.
-
----
-
-## 7. Nota ética sobre los datos
-
-Este proyecto se presenta con fines académicos y de portafolio. Si los archivos contienen datos sensibles o identificables, deben tratarse como información de práctica o datos sintéticos. Para un portafolio público, lo ideal es evitar publicar información personal real y mantener únicamente datos anonimizados.
-
----
-
-## 8. Próximas mejoras
-
-Posibles mejoras futuras del proyecto:
-
-- Crear una versión anonimizada del dataset.
-- Agregar capturas del dashboard de Excel.
-- Crear un dashboard en Power BI.
-- Agregar un análisis más detallado con Python y pandas.
-- Crear una carpeta de documentación con conclusiones y capturas.
-- Publicar una presentación final propia en Canva.
+- Crear una versión anonimizada de los datos.
+- Agregar capturas del dashboard o gráficos.
+- Crear una presentación propia en Canva.
+- Rehacer el análisis en Power BI.
+- Replicar la limpieza con Python y pandas.
+- Crear un pequeño informe PDF con conclusiones finales.
