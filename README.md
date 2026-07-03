@@ -1,130 +1,116 @@
 # Business Technology Management Project Portfolio
 
-Este repositorio es mi espacio para ir dejando evidencia de proyectos prácticos relacionados con Business Technology Management, análisis de datos, Excel, documentación y Business Intelligence.
+This repository is my portfolio for practical projects related to Business Technology Management, Excel, data analysis, documentation, and Business Intelligence.
 
-No quiero que este portafolio se vea como una lista de tareas sueltas. La idea es ir construyendo proyectos pequeños, pero bien explicados, que muestren cómo trabajo con datos desde lo básico: revisar archivos, detectar errores, ordenar información, resumir resultados y explicar hallazgos de forma clara.
-
----
-
-# Proyecto Excel: Limpieza y análisis de datos de pacientes
-
-Este es uno de mis primeros proyectos principales en Excel para portafolio. Lo trabajé a partir de dos actividades académicas: una enfocada en limpieza de datos y otra enfocada en análisis descriptivo.
-
-Lo estoy dejando aquí porque representa bien el tipo de habilidad que quiero fortalecer: no solo usar Excel para hacer tablas, sino usarlo como una herramienta para revisar calidad de datos, documentar cambios, crear resúmenes y explicar conclusiones.
-
-## Archivos del proyecto
-
-Los archivos están ubicados en:
-
-```text
-projects/excel-patient-data-analysis/original_files/
-```
-
-Nombres usados para el proyecto:
-
-```text
-01_limpieza_calidad_datos.xlsx
-02_analisis_pacientes_excel.xlsx
-```
-
-> Nota: los archivos originales fueron trabajados primero con nombres académicos. Los renombré en el repositorio para que se entiendan mejor dentro del portafolio.
+My goal is to document small projects that show how I work with data: reviewing files, finding quality issues, organizing information, creating summaries, building visualizations, and explaining insights clearly.
 
 ---
 
-## Presentación en Canva
+# Excel Project: Healthcare Data Cleaning and Descriptive Analysis
 
-Enlace usado como apoyo para la presentación del proyecto:
+This is one of my first main Excel projects for my data analytics portfolio. I worked with two academic Excel files: one focused on data quality and cleaning, and another focused on descriptive analysis, summary tables, and charts.
+
+The project is available in English and Spanish.
+
+## Project Structure
+
+```text
+projects/excel-patient-data-analysis/
+├── english/
+│   ├── 01_data_quality_cleaning_EN.xlsx
+│   └── 02_patient_data_analysis_excel_EN.xlsx
+└── spanish/
+    ├── 01_limpieza_calidad_datos_ES.xlsx
+    └── 02_analisis_pacientes_excel_ES.xlsx
+```
+
+Spanish documentation is available in:
+
+```text
+README_ES.md
+```
+
+---
+
+## Canva Presentation
 
 https://canva.link/4t7szd1apthwldm
 
+---
+
+## What I did
+
+The project has two parts.
+
+### 1. Data Quality and Cleaning
+
+In the first workbook, I reviewed the dataset before analysis.
+
+I worked on:
+
+- Reviewing columns, structure, and data types.
+- Detecting missing values.
+- Checking for duplicate records.
+- Identifying inconsistent or incomplete values.
+- Documenting errors found in the dataset.
+- Recording the corrections applied.
+- Preparing a cleaner version of the data.
+
+### 2. Descriptive Analysis in Excel
+
+In the second workbook, I practiced descriptive analysis.
+
+I created:
+
+- Basic statistics such as count, average, minimum, and maximum.
+- Summary tables.
+- Charts to visualize patterns.
+- A short interpretation of the results.
 
 ---
 
-## Qué hice en este proyecto
+## Main Learnings
 
-El proyecto tiene dos partes.
-
-### 1. Limpieza y control de calidad de datos
-
-En el primer archivo revisé un conjunto de datos para encontrar problemas comunes antes de hacer cualquier análisis.
-
-Trabajé en:
-
-- Revisión inicial de columnas y estructura.
-- Búsqueda de valores vacíos.
-- Revisión de registros duplicados.
-- Identificación de datos inconsistentes.
-- Documentación de errores encontrados.
-- Registro de correcciones aplicadas.
-- Validación final para confirmar que el archivo quedara más ordenado.
-
-Esta parte me ayudó a entender que analizar datos no empieza con gráficos. Primero hay que revisar si la información tiene sentido.
-
-### 2. Análisis descriptivo en Excel
-
-En el segundo archivo trabajé con datos de pacientes para practicar análisis descriptivo.
-
-Realicé:
-
-- Estadísticas básicas como conteo, promedio, mínimo y máximo.
-- Tablas resumen para comparar categorías.
-- Gráficos para visualizar patrones.
-- Revisión de posibles datos atípicos.
-- Interpretación de resultados para explicar el análisis en una presentación corta.
-
-Aquí el objetivo fue convertir una tabla grande en información más fácil de leer y explicar.
+- Data quality review is necessary before creating conclusions.
+- Error and correction sheets make the cleaning process easier to audit.
+- Excel is useful for early data analysis and reporting.
+- Summary tables help compare categories.
+- Charts should support the explanation, not just decorate the workbook.
 
 ---
 
-## Insights y aprendizajes
+## How I would explain this project in an interview
 
-Estos fueron los puntos más importantes que me dejó el proyecto:
+I worked with two Excel files. First, I reviewed the data quality by checking missing values, duplicates, inconsistent values, and logical errors. Then I documented the issues and the corrections applied.
 
-- Antes de analizar, es necesario revisar la calidad del archivo.
-- Las hojas de errores y correcciones ayudan a dejar evidencia del proceso.
-- Excel sigue siendo una herramienta fuerte para análisis inicial, especialmente cuando se usan filtros, tablas dinámicas y gráficos.
-- Las estadísticas básicas ayudan a entender rápidamente el comportamiento general de los datos.
-- Los gráficos no sirven solo para decorar: deben ayudar a explicar una tendencia o una comparación.
-- Un análisis pequeño puede verse más profesional si está bien documentado.
+After that, I used another workbook for descriptive analysis. I calculated basic statistics, created summary tables, built charts, and prepared a short explanation of the results.
+
+This project shows my early foundation in Excel for data analytics and my interest in growing toward Business Intelligence.
 
 ---
 
-## Cómo explicaría este proyecto en una entrevista
-
-Trabajé con dos archivos de Excel. Primero hice una revisión de calidad de datos, buscando errores, valores faltantes, duplicados e inconsistencias. Después documenté los problemas encontrados y las correcciones realizadas.
-
-Luego usé otro archivo para hacer análisis descriptivo. Calculé estadísticas básicas, preparé tablas resumen y generé gráficos para interpretar los datos. El objetivo fue practicar un flujo completo: revisar, limpiar, resumir, visualizar y explicar resultados.
-
-Este proyecto muestra mi base inicial en Excel aplicado a análisis de datos y mi interés en seguir avanzando hacia Data Analytics y Business Intelligence.
-
----
-
-## Herramientas utilizadas
+## Tools Used
 
 - Microsoft Excel
-- Filtros y ordenamiento
-- Fórmulas básicas
-- Tablas resumen
-- Tablas dinámicas
-- Gráficos
+- Filters and sorting
+- Basic formulas
+- Summary tables
+- Charts
 - Canva
 - GitHub
 
 ---
 
-## Nota ética sobre los datos
+## Data Note
 
-Este proyecto fue realizado con fines académicos y de portafolio totalmente ficticios. En un caso real, antes de publicar un proyecto de este tipo sería necesario anonimizar cualquier dato personal o sensible.
+This project is for academic and portfolio purposes. The files are treated as practice data for learning Excel, data cleaning, and descriptive analysis.
 
 ---
 
-## Próximas mejoras
+## Next Improvements
 
-Este proyecto todavía puede mejorar. Algunas ideas para una segunda versión son:
-
-- Crear una versión anonimizada de los datos.
-- Agregar capturas del dashboard o gráficos.
-- Crear una presentación propia en Canva.
-- Rehacer el análisis en Power BI.
-- Replicar la limpieza con Python y pandas.
-- Crear un pequeño informe PDF con conclusiones finales.
+- Build a cleaner Excel dashboard.
+- Recreate the analysis in Power BI.
+- Repeat the cleaning process with Python and pandas.
+- Add screenshots of the final dashboard.
+- Create a short PDF report with final conclusions.
