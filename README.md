@@ -1,6 +1,8 @@
 # Hacker News Tech Engagement Analysis
 
-A compact Python portfolio project that collects technology news from Hacker News, cleans and validates the data, engineers an engagement metric, and exports a friendly CSV and formatted Excel reports.
+[Open the live notebook in Google Colab](https://colab.research.google.com/drive/1ruE0dm5EbukzDUa2nQuhpubpCPv3i9IB?usp=sharing)
+
+A compact Python portfolio project that collects technology news from Hacker News, cleans and validates the data, engineers an engagement metric, and exports CSV and formatted Excel reports.
 
 ## Why this project
 
@@ -89,10 +91,10 @@ This is a useful example of inspecting a page structure before writing extractio
 
 The easiest option is Google Colab.
 
-1. Open `hacker_news_engagement_analysis.ipynb`.
+1. Open the [live Colab notebook](https://colab.research.google.com/drive/1ruE0dm5EbukzDUa2nQuhpubpCPv3i9IB?usp=sharing).
 2. Run the cells from top to bottom.
 3. The notebook scrapes live Hacker News data.
-4. The final cells generate CSV and a formatted Excel report.
+4. The final cells generate a CSV and a formatted Excel report.
 5. In Google Colab, the Excel file downloads automatically.
 
 Install dependencies locally with:
@@ -122,7 +124,7 @@ python src/hacker_news_analysis.py
 
 ## Notes
 
-Hacker News is live and changes continuously, so story counts and analysis results will differ between runs. The project intentionally uses only three pages to keep the analysis focused and friendly.
+Hacker News is live and changes continuously, so story counts and analysis results will differ between runs. The project intentionally uses only three pages to keep the analysis focused and easy to review.
 
 ---
 
