@@ -1,6 +1,6 @@
 # Hacker News Tech Engagement Analysis
 
-A compact Python portfolio project that collects technology news from Hacker News, cleans and validates the data, engineers an engagement metric, and exports recruiter-friendly CSV and formatted Excel reports.
+A compact Python portfolio project that collects technology news from Hacker News, cleans and validates the data, engineers an engagement metric, and exports a friendly CSV and formatted Excel reports.
 
 ## Why this project
 
