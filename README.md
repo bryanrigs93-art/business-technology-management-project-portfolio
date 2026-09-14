@@ -122,7 +122,7 @@ python src/hacker_news_analysis.py
 
 ## Notes
 
-Hacker News is live and changes continuously, so story counts and analysis results will differ between runs. The project intentionally uses only three pages to keep the analysis focused and recruiter-friendly.
+Hacker News is live and changes continuously, so story counts and analysis results will differ between runs. The project intentionally uses only three pages to keep the analysis focused and friendly.
 
 ---
 
