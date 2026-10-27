@@ -1,160 +1,42 @@
-# Bryan Bodegas | Technology Portfolio / Portafolio tecnológico
+# Bryan Bodegas
 
-**EN:** Business Technology Management student transitioning from BPO customer support into technology-focused roles. This portfolio highlights academic case studies and hands-on learning artifacts; it does not present academic work as paid industry experience.
+**Business Technology Management · Data Analytics · Cybersecurity · Business Processes**  
+**Gestión de Tecnología Empresarial · Análisis de Datos · Ciberseguridad · Procesos de Negocio**
 
-**ES:** Estudiante de Business Technology Management en transición desde Customer Support en BPO hacia puestos tecnológicos. Este portafolio presenta casos académicos y evidencias de aprendizaje práctico; no presenta los trabajos universitarios como experiencia laboral remunerada en el sector.
+## About me / Sobre mí
 
-## 🔐 Cybersecurity & Technology Risk / Ciberseguridad y Riesgo Tecnológico
+**EN**  
+I'm studying Business Technology Management, and my professional background is in customer support and back-office operations in the BPO industry. My projects reflect what I've been learning and exploring along the way: working with data, understanding security risks, documenting processes, and finding practical ways to solve problems.
 
-**[Explore all four cybersecurity projects / Explorar los cuatro proyectos](cybersecurity/README.md)**
+**ES**  
+Estudio Business Technology Management y mi experiencia laboral ha sido principalmente en atención al cliente y operaciones de back office en la industria BPO. En este espacio comparto proyectos que he desarrollado durante mis estudios y por iniciativa propia, relacionados con análisis de datos, ciberseguridad, procesos y soluciones tecnológicas.
 
-| Academic case study / Caso académico | What it demonstrates / Qué demuestra | Explore / Explorar |
+## Projects / Proyectos
+
+### Cybersecurity / Ciberseguridad
+
+Four academic projects focused on understanding security risks and communicating possible solutions.  
+Cuatro proyectos académicos centrados en comprender riesgos de seguridad y plantear posibles soluciones.
+
+| Project / Proyecto | Focus / Enfoque | |
 |---|---|---|
-| **DataProtect** | 9-scenario risk matrix in Excel and proposed remediation / Matriz de 9 riesgos en Excel y remediación propuesta | [EN / ES](cybersecurity/01-dataprotect/README.md) |
-| **Equifax (2017)** | Vulnerability and breach analysis / Análisis de vulnerabilidades e incidentes | [EN / ES](cybersecurity/02-equifax/README.md) |
-| **Bank of America / Infosys McCamish** | Third-party security risk and proposed KPIs / Riesgo de proveedores e indicadores propuestos | [EN / ES](cybersecurity/03-bank-of-america/README.md) |
-| **Tech del Futuro** | Information security policy and awareness plan / Política de seguridad y plan de concienciación | [EN / ES](cybersecurity/04-tech-del-futuro/README.md) |
+| **DataProtect** | Risk assessment in Excel / Evaluación de riesgos en Excel | [View / Ver](cybersecurity/01-dataprotect/README.md) |
+| **Equifax (2017)** | Data breach and vulnerability analysis / Análisis de filtración y vulnerabilidades | [View / Ver](cybersecurity/02-equifax/README.md) |
+| **Bank of America / Infosys McCamish** | Third-party security risks / Riesgos de seguridad de proveedores | [View / Ver](cybersecurity/03-bank-of-america/README.md) |
+| **Tech del Futuro** | Security policy and awareness plan / Política de seguridad y plan de concienciación | [View / Ver](cybersecurity/04-tech-del-futuro/README.md) |
 
-> **Scope / Alcance:** Academic exercises and simulations, not security work performed for the organizations named. / Ejercicios y simulaciones académicas, no trabajos de seguridad realizados para las organizaciones mencionadas.
+[**Explore the cybersecurity collection / Explorar los proyectos de ciberseguridad →**](cybersecurity/README.md)
 
----
+### Data Analytics / Análisis de datos
 
-## 📊 Data Analytics / Análisis de datos
+**Hacker News Tech Engagement Analysis** — Python project exploring which technology stories and sources receive the most engagement on Hacker News. It includes data collection, cleaning, analysis and Excel reporting.
 
-**EN:** The next section documents an existing Python project analyzing Hacker News engagement.  
-**ES:** La siguiente sección documenta un proyecto existente de Python sobre participación en Hacker News. El material técnico previo se conserva.
+**Hacker News Tech Engagement Analysis** — Proyecto en Python para explorar qué noticias y fuentes tecnológicas generan mayor interacción en Hacker News. Incluye recolección, limpieza y análisis de datos, además de reportes en Excel.
 
----
+**Tools / Herramientas:** Python · Requests · BeautifulSoup · Pandas · Matplotlib · XlsxWriter · Google Colab
 
-# Hacker News Tech Engagement Analysis
-
-[Open the live notebook in Google Colab](https://colab.research.google.com/drive/1ruE0dm5EbukzDUa2nQuhpubpCPv3i9IB?usp=sharing)
-
-A compact Python portfolio project that collects technology news from Hacker News, cleans and validates the data, engineers an engagement metric, and exports CSV and formatted Excel reports.
-
-## Why this project
-
-The goal is not just to demonstrate web scraping. The project shows an end-to-end analyst workflow:
-
-**Web data extraction → HTML inspection → data cleaning → validation → feature engineering → analysis → reporting**
-
-It is designed to be small enough to review quickly while still demonstrating practical problem-solving with real, changing web data.
-
-## Business question
-
-**Which Hacker News stories and recurring sources generate the strongest reader engagement?**
-
-## Tech stack
-
-- Python
-- Requests
-- BeautifulSoup
-- Pandas
-- Matplotlib
-- XlsxWriter
-- Google Colab
-
-## Data collected
-
-For each story, the project collects:
-
-| Field | Description |
-|---|---|
-| `Story_ID` | Hacker News story identifier |
-| `Rank` | Position on the page |
-| `Title` | Story title |
-| `Source` | Source domain |
-| `Score` | Hacker News points |
-| `Author` | User who submitted the story |
-| `Age` | Relative publication age |
-| `Comments` | Number of comments |
-| `Link` | Story URL |
-| `Page` | Page scraped |
-| `Engagement` | Custom metric: `Score + Comments` |
-
-## Project workflow
-
-1. Request the first three Hacker News pages.
-2. Parse story rows with BeautifulSoup.
-3. Read metadata from the sibling row below each story.
-4. Handle missing sources, scores, authors, and zero-comment stories.
-5. Convert numeric fields to numeric data types.
-6. Validate nulls and duplicate story IDs.
-7. Create an engagement metric.
-8. Identify top stories and recurring high-engagement sources.
-9. Build two concise visualizations.
-10. Export:
-   - `hacker_news_engagement.csv`
-   - `hacker_news_engagement_analysis.xlsx`
-
-The Excel workbook contains three formatted sheets:
-
-- **Stories** — full cleaned dataset
-- **Top Stories** — highest-engagement stories
-- **Source Analysis** — aggregated source performance
-
-## Key technical challenge
-
-Hacker News stores the story title and its metadata in **two separate sibling table rows**. The scraper therefore cannot treat one HTML row as a complete record.
-
-The project links:
-
-```text
-Story row
-├── Rank
-├── Title
-├── Link
-└── Source
-
-Next sibling row
-├── Score
-├── Author
-├── Age
-└── Comments
-```
-
-This is a useful example of inspecting a page structure before writing extraction logic.
-
-## Run the project
-
-The easiest option is Google Colab.
-
-1. Open the [live Colab notebook](https://colab.research.google.com/drive/1ruE0dm5EbukzDUa2nQuhpubpCPv3i9IB?usp=sharing).
-2. Run the cells from top to bottom.
-3. The notebook scrapes live Hacker News data.
-4. The final cells generate a CSV and a formatted Excel report.
-5. In Google Colab, the Excel file downloads automatically.
-
-Install dependencies locally with:
-
-```bash
-pip install -r requirements.txt
-```
-
-You can also run the standalone script:
-
-```bash
-python src/hacker_news_analysis.py
-```
-
-## Portfolio skills demonstrated
-
-- Web scraping and HTML inspection
-- CSS selectors and DOM navigation
-- Pagination
-- Error-tolerant extraction
-- Data cleaning with Pandas
-- Data-quality checks
-- Feature engineering
-- Grouped analysis
-- Basic data visualization
-- Automated CSV and Excel reporting
-
-## Notes
-
-Hacker News is live and changes continuously, so story counts and analysis results will differ between runs. The project intentionally uses only three pages to keep the analysis focused and easy to review.
+[**Project details / Detalles del proyecto →**](hacker-news/README.md) · [**Notebook / Cuaderno**](hacker_news_engagement_analysis.ipynb) · [**Google Colab**](https://colab.research.google.com/drive/1ruE0dm5EbukzDUa2nQuhpubpCPv3i9IB?usp=sharing)
 
 ---
 
-**Author:** Bryan Bodegas  
-**Portfolio focus:** Business Technology Management · Business Analysis · Data Analysis
+**About the work / Sobre los trabajos:** Projects combine university assignments and independent practice. Each project page explains its context and the work completed. / Los proyectos incluyen actividades universitarias y prácticas independientes. En cada página explico el contexto y lo que desarrollé.
