@@ -1,33 +1,25 @@
-# How to read these projects | Cómo interpretar estos proyectos
+# About these projects / Acerca de estos proyectos
+
+[← Cybersecurity / Ciberseguridad](README.md)
 
 ## English
 
-**Context.** All four projects come from university coursework in cybersecurity at ESI School of Management (2026). Two case companies (DataProtect and Tech del Futuro) are fictional; Equifax and Bank of America are analyses of publicly reported incidents.
+I prepared these projects during my Cybersecurity course at ESI School of Management in 2026.
 
-**Evidence levels**
-- **Case facts:** facts supplied by the academic scenario or cited public reports.
-- **My analysis:** interpretations, risk ratings, comparisons, and recommendations from the coursework.
-- **Proposed controls and KPIs:** suggested objectives, roles and deadlines. **Not verified operational outcomes.**
-- **No claim of hands-on testing:** the submissions do not establish performed vulnerability scans, a deployed ISO 27001 management system, production remediation or access to any company's systems.
+- **DataProtect** and **Tech del Futuro** are fictional case studies. Their findings come from the case descriptions; the risk ratings, policies and action plans are coursework proposals.
+- **Equifax** and **Bank of America** are based on publicly reported incidents. The analyses use the sources listed in the original reports.
+- The Excel matrix for DataProtect uses a simple three-level likelihood and impact scale. It is a qualitative assessment, not a measurement from a live company.
+- Where NIST CSF 2.0 is mentioned, it helps connect the topics covered in the project with the framework; it is not a formal compliance review.
 
-**Risk-rating scope.** DataProtect uses a custom, qualitative 3×3 likelihood × impact scale; scores prioritize fictional scenarios and are not statistically estimated probabilities or measurements from a live organization.
-
-**Framework alignment.** Links to NIST CSF 2.0 categories are an explanatory portfolio mapping where stated, not certification or a formal compliance audit.
-
-**Authorship.** Academic work was submitted under Bryan Bodegas. The Bank of America activity contains a group-discussion section; this portfolio does not assert that all collaborative elements were independently completed. Original submission files remain the authoritative evidence.
+The projects document research and proposed actions. They do not include work performed inside the systems of the organizations mentioned. The Bank of America assignment also includes a group-discussion component.
 
 ## Español
 
-**Contexto.** Los cuatro proyectos provienen de actividades universitarias de ciberseguridad de ESI School of Management (2026). DataProtect y Tech del Futuro son empresas ficticias; Equifax y Bank of America corresponden al análisis de incidentes públicos.
+Preparé estos proyectos durante mi curso de Ciberseguridad en ESI School of Management en 2026.
 
-**Niveles de evidencia**
-- **Hechos del caso:** información del escenario académico o de fuentes públicas citadas.
-- **Mi análisis:** interpretación, calificaciones de riesgo y recomendaciones del trabajo académico.
-- **Controles e indicadores propuestos:** objetivos, responsables y plazos sugeridos; **no son resultados operativos verificados**.
-- **Sin afirmaciones de pruebas técnicas realizadas:** las entregas no acreditan escaneos ejecutados, implementación de ISO 27001, remediación en producción ni acceso a sistemas empresariales.
+- **DataProtect** y **Tech del Futuro** son casos ficticios. Los problemas descritos vienen del material de clase; las valoraciones, políticas y planes de acción son propuestas elaboradas para las actividades.
+- **Equifax** y **Bank of America** se basan en incidentes públicos. Los análisis utilizan las fuentes citadas en los informes originales.
+- La matriz de DataProtect usa tres niveles de probabilidad e impacto. Es una evaluación cualitativa, no una medición de una empresa en operación.
+- Cuando menciono NIST CSF 2.0, lo utilizo para relacionar temas del proyecto con el marco, no como una evaluación formal de cumplimiento.
 
-**Alcance de las valoraciones.** DataProtect usa una escala cualitativa propia de 3×3 (probabilidad × impacto). Los valores priorizan escenarios ficticios; no son probabilidades estadísticas ni mediciones de una organización real.
-
-**Relación con marcos.** Las referencias a categorías de NIST CSF 2.0 son asociaciones explicativas para el portafolio, no una certificación ni una auditoría formal de cumplimiento.
-
-**Autoría.** Los trabajos académicos se entregaron a nombre de Bryan Bodegas. La actividad de Bank of America contiene un apartado de discusión grupal; el portafolio no presupone que todos los elementos colaborativos fueran desarrollados individualmente. Los archivos originales de entrega son la evidencia principal.
+Los trabajos reúnen investigación y propuestas, no actividades realizadas dentro de los sistemas de las organizaciones mencionadas. La actividad sobre Bank of America también incluye un componente de discusión grupal.
