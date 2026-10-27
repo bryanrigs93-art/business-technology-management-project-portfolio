@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="485" viewBox="0 0 960 485" role="img" aria-labelledby="title desc">
+<title id="title">DataProtect academic risk distribution / Distribución de riesgos académicos</title>
+<desc id="desc">Nine qualitative risk scenarios: eight high, one medium, zero low. Academic case study, not measured production risk.</desc>
+<rect width="960" height="485" rx="26" fill="#0F172A"/>
+<text x="52" y="70" font-size="30" font-weight="700" fill="#F8FAFC" font-family="Arial,sans-serif">Risk Distribution / Distribución de riesgos</text>
+<text x="52" y="105" font-size="16" fill="#CBD5E1" font-family="Arial,sans-serif">DataProtect · 9 academic scenarios / 9 escenarios académicos · Qualitative / Cualitativo</text>
+<text x="52" y="162" font-size="21" fill="#F8FAFC" font-family="Arial,sans-serif">High / Alto</text>
+<rect x="267" y="140" width="545" height="30" rx="6" fill="#334155"/><rect x="267" y="140" width="485" height="30" rx="6" fill="#F87171"/>
+<text x="833" y="164" font-size="23" font-weight="700" fill="#F8FAFC" font-family="Arial,sans-serif">8</text>
+<text x="52" y="239" font-size="21" fill="#F8FAFC" font-family="Arial,sans-serif">Medium / Medio</text>
+<rect x="267" y="217" width="545" height="30" rx="6" fill="#334155"/><rect x="267" y="217" width="61" height="30" rx="6" fill="#FBBF24"/>
+<text x="833" y="241" font-size="23" font-weight="700" fill="#F8FAFC" font-family="Arial,sans-serif">1</text>
+<text x="52" y="316" font-size="21" fill="#F8FAFC" font-family="Arial,sans-serif">Low / Bajo</text>
+<rect x="267" y="294" width="545" height="30" rx="6" fill="#334155"/>
+<text x="833" y="318" font-size="23" font-weight="700" fill="#F8FAFC" font-family="Arial,sans-serif">0</text>
+<rect x="46" y="377" width="868" height="68" rx="12" fill="#1E293B"/>
+<text x="65" y="405" font-size="17" font-weight="700" fill="#E2E8F0" font-family="Arial,sans-serif">Likelihood × Impact / Probabilidad × Impacto</text>
+<text x="65" y="431" font-size="14" fill="#CBD5E1" font-family="Arial,sans-serif">Scores 1–2: low · 3–4: medium · 6–9: high / Puntajes 1–2: bajo · 3–4: medio · 6–9: alto</text>
+</svg>
