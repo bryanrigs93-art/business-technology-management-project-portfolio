@@ -1,53 +1,37 @@
-# Equifax (2017) — Data Breach Analysis
-## Análisis de la filtración de datos de Equifax
+# Equifax (2017) — Information Security Incident
+Análisis de un incidente de seguridad de la información · ESI School of Management, octubre de 2026
 
-**Cybersecurity course / Curso de Ciberseguridad · ESI School of Management · October / octubre 2026**  
-**Format / Formato:** Research essay and audio summary / Ensayo y resumen en audio
-
-[← Cybersecurity / Ciberseguridad](../README.md)
+[Cybersecurity / Ciberseguridad](../README.md) · [English](#english) · [Español](#español)
 
 ## English
 
-### Why I chose this case
+### Background
+In 2017, Equifax suffered a breach involving personal information from approximately **147 million people**. I chose this case for a research essay because it involved a known software vulnerability and several failures in security management.
 
-The 2017 Equifax breach affected approximately 147 million people. I chose it because it shows how a known technical vulnerability can become a much larger problem when several security processes fail at the same time.
+### What I researched
+The entry point was a web application using Apache Struts, affected by **CVE-2017-5638**. Although a patch was available, it had not been applied to the vulnerable system.
 
-### What I looked into
+I also reviewed the weaknesses that allowed the incident to grow, including credential protection, network segmentation and monitoring. The essay covers consequences for customers, the company's response and the challenges that followed the public disclosure.
 
-The attackers exploited **CVE-2017-5638**, a vulnerability in Apache Struts. A patch was already available, but it had not been applied to the affected application.
+### Conclusion
+The part that stood out to me was patch verification. Having a process for installing updates means little if nobody confirms that the affected systems were actually fixed. The same applies to assigning responsibility and checking whether security measures work.
 
-My essay examines that gap alongside weaknesses in credential protection, network segmentation and monitoring. I also covered the impact on individuals, the company's response and the difficulties people faced when trying to get information after the breach.
-
-The incident had financial and legal consequences: in 2019, Equifax agreed to a settlement of at least **US$575 million**, potentially reaching US$700 million.
-
-### What I took from it
-
-One of the main points in my essay is the difference between **having a patching process** and **checking that a critical patch was actually applied**. I also discussed the need for clear responsibilities, reliable monitoring and communication with affected people.
-
-The assignment included a written essay and a spoken summary in Spanish. The original files have not yet been added to this repository.
+I submitted a written essay and a recorded summary in Spanish. The original files have not yet been uploaded here.
 
 ## Español
 
-### Por qué elegí este caso
-
-La filtración de Equifax en 2017 afectó aproximadamente a 147 millones de personas. Elegí este incidente porque permite ver cómo una vulnerabilidad técnica conocida puede convertirse en un problema mucho mayor cuando fallan varios procesos de seguridad.
+### Contexto
+En 2017, Equifax sufrió una filtración que expuso información personal de aproximadamente **147 millones de personas**. Elegí este caso para un ensayo de investigación porque involucró una vulnerabilidad conocida y varias fallas en la gestión de seguridad.
 
 ### Qué investigué
+El punto de entrada fue una aplicación web que utilizaba Apache Struts y estaba afectada por **CVE-2017-5638**. Aunque existía un parche, no se había aplicado al sistema vulnerable.
 
-Los atacantes aprovecharon **CVE-2017-5638**, una vulnerabilidad de Apache Struts. El parche ya estaba disponible, pero no se había aplicado a la aplicación afectada.
+También revisé las debilidades que agravaron el incidente, entre ellas la protección de credenciales, la segmentación de redes y el monitoreo. El ensayo aborda las consecuencias para los clientes, la respuesta de la empresa y las dificultades posteriores a la divulgación pública.
 
-En el ensayo examiné ese problema junto con las debilidades en protección de credenciales, segmentación de redes y monitoreo. También analicé las consecuencias para las personas, la respuesta de la empresa y las dificultades que enfrentaron los afectados para recibir información.
+### Conclusión
+Uno de los aspectos que más me llamó la atención fue la verificación de los parches. Tener un proceso de actualizaciones sirve de poco si nadie comprueba que los sistemas afectados quedaron corregidos. Lo mismo sucede con la asignación de responsabilidades y la revisión de los controles.
 
-El incidente tuvo consecuencias económicas y legales: en 2019, Equifax llegó a un acuerdo por al menos **US$575 millones**, con posibilidad de alcanzar US$700 millones.
+Entregué un ensayo y un resumen grabado en español. Los archivos originales todavía no están publicados aquí.
 
-### Qué aprendí del caso
-
-Uno de los puntos centrales de mi ensayo es la diferencia entre **tener un proceso de actualizaciones** y **comprobar que un parche crítico se aplicó realmente**. También abordé la importancia de asignar responsables, monitorear los sistemas y comunicarse con las personas afectadas.
-
-La actividad incluyó un ensayo y un resumen hablado en español. Los archivos originales todavía no se han añadido a este repositorio.
-
----
-
-**Sources / Fuentes:** [GAO report](https://www.gao.gov/products/gao-18-559) · [FTC settlement announcement](https://www.ftc.gov/news-events/news/press-releases/2019/07/equifax-pay-575-million-part-settlement-ftc-cfpb-states-related-2017-data-breach) · [U.S. House report](https://oversight.house.gov/report/committee-releases-report-revealing-new-information-on-equifax-data-breach/)
-
-**Related topics / Temas relacionados:** Vulnerability management · Patch verification · Incident response · Security governance
+### Sources / Fuentes
+[GAO report](https://www.gao.gov/products/gao-18-559) · [FTC report](https://www.ftc.gov/news-events/news/press-releases/2019/07/equifax-pay-575-million-part-settlement-ftc-cfpb-states-related-2017-data-breach) · [U.S. House report](https://oversight.house.gov/report/committee-releases-report-revealing-new-information-on-equifax-data-breach/)
