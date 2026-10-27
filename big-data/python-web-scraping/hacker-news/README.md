@@ -1,7 +1,7 @@
 # Hacker News — Engagement Analysis
 ## Análisis de interacción en Hacker News
 
-[← Portfolio / Portafolio](../README.md) · [Notebook / Cuaderno](../hacker_news_engagement_analysis.ipynb) · [Open in Colab / Abrir en Colab](https://colab.research.google.com/drive/1ruE0dm5EbukzDUa2nQuhpubpCPv3i9IB?usp=sharing)
+[← Portfolio / Portafolio](../../../README.md) · [Notebook / Cuaderno](hacker_news_engagement_analysis.ipynb) · [Open in Colab / Abrir en Colab](https://colab.research.google.com/drive/1ruE0dm5EbukzDUa2nQuhpubpCPv3i9IB?usp=sharing)
 
 **Tools / Herramientas:** Python · Requests · BeautifulSoup · Pandas · Matplotlib · XlsxWriter · Google Colab
 
@@ -27,8 +27,8 @@ Como el programa consulta páginas en vivo, los resultados cambian en cada ejecu
 
 ## Files / Archivos
 
-- [Jupyter notebook / Cuaderno de Jupyter](../hacker_news_engagement_analysis.ipynb)
-- [Python script / Script de Python](../src/hacker_news_analysis.py)
-- [Dependencies / Dependencias](../requirements.txt)
+- [Jupyter notebook / Cuaderno de Jupyter](hacker_news_engagement_analysis.ipynb)
+- [Python script / Script de Python](hacker_news_analysis.py)
+- [Dependencies / Dependencias](requirements.txt)
 
 **Run it / Para ejecutarlo:** Open the notebook in Colab and run the cells, or run the Python script from the repository root. / Abre el cuaderno en Colab y ejecuta las celdas, o ejecuta el script desde la raíz del repositorio.
