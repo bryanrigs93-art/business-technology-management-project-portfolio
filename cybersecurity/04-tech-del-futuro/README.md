@@ -1,69 +1,67 @@
-# Tech del Futuro — Information Security Policy & Awareness Plan
-# Tech del Futuro — Política de seguridad de la información y plan de concienciación
+# Tech del Futuro — Information Security Policy
+## Política de seguridad de la información
 
-**Type / Tipo:** Academic policy-design case / Caso académico de diseño de políticas  
-**Company / Empresa:** Tech del Futuro, S. A. (**fictional Salvadoran company / empresa salvadoreña ficticia**)  
-**Course / Materia:** Cybersecurity, ESI School of Management · October / octubre 2026  
-**Skills / Competencias:** Security governance · Information security policy · BYOD · Access control · Security awareness · KPI design
+**Cybersecurity course / Curso de Ciberseguridad · ESI School of Management · October / octubre 2026**  
+**Case / Caso:** Tech del Futuro, S. A. (fictional company in El Salvador / empresa ficticia de El Salvador)
 
-[← Portfolio / Portafolio](../README.md)
+[← Cybersecurity / Ciberseguridad](../README.md)
 
 ## English
 
-### Business challenge
-The fictional organization has **150+ employees**, three servers storing critical customer and project information, a segmented internal network, cloud collaboration, corporate laptops and some personal mobile devices used for sales work.
+### The case
 
-The scenario highlights undefined security responsibilities, incomplete remote-work/BYOD rules, no regular audits and **more than 80% of employees without cybersecurity training**.
+Tech del Futuro is a fictional company with more than 150 employees, three main servers, corporate laptops and cloud collaboration tools. Its sales team also uses personal mobile devices for work.
 
-### Proposed deliverables
-1. **Information security policy draft (v1.0):** scope, data and device coverage, access principles and responsibilities for management, security, IT, HR and staff.
-2. **Operating procedures:** remote work and BYOD enrollment, MFA, updates, backups and incident reporting.
-3. **Incident-response workflow:** notify → record → assess and contain → recover → learn.
-4. **90-day awareness plan:** induction, phishing/MFA guidance, BYOD workshop, educational phishing simulation and reporting exercise.
-5. **Verification criteria and targets:** policy distribution, training coverage, registered sales devices and quarterly review.
+The company had grown without clearly defining security responsibilities, remote-work rules or regular checks. The case also reported that more than 80% of employees had never received cybersecurity training.
 
-### 90-day proposed rollout
-| Period | Planned activity | Suggested evidence |
-|---|---|---|
-| Days 1–30 | Explain policy; 30-minute training; baseline survey | Attendance + survey |
-| Days 31–60 | BYOD workshop; short reminders; phishing exercise | Materials + aggregate exercise results |
-| Days 61–90 | Incident-report drill; departmental feedback | Drill record + improvement actions |
+### What I prepared
 
-**Selected targets (not achieved results):** deliver policy to 100% of staff; reach at least 90% training participation; register or replace 100% of work-used sales devices; complete one reporting exercise.
+I wrote a **draft information security policy** covering responsibilities, access to systems, company devices, personal devices used for work (BYOD), backups and incident reporting.
 
-### Evidence / limitations
-Original coursework: an eight-page report and presentation/video. [Author-supplied Canva video](https://canva.link/tech-del-futuro) (**access permissions not verified**).
+I also proposed a straightforward response process: **report → record → assess and contain → recover → learn**.
 
-This is a **draft policy for a simulated organization**. It was not formally approved, deployed, audited or certified under ISO 27001.
+Because security policies only work if people understand them, I included a **90-day awareness plan**:
+
+| Period | Planned activity |
+|---|---|
+| Days 1–30 | Introduce the policy, hold a short training session and gather baseline feedback |
+| Days 31–60 | Discuss phishing and the safe use of personal devices |
+| Days 61–90 | Practice incident reporting and collect feedback from each department |
+
+The report suggests ways to follow up on training attendance, registered devices and policy reviews. These are plans for the fictional company, not activities already carried out.
+
+### Presentation
+
+[Video presentation on Canva](https://canva.link/tech-del-futuro)
 
 ## Español
 
-### Desafío empresarial
-La organización ficticia cuenta con **más de 150 empleados**, tres servidores con información de proyectos y clientes, una red segmentada, herramientas de colaboración en la nube, laptops corporativas y teléfonos personales usados por Ventas.
+### El caso
 
-El escenario identifica responsabilidades poco claras, reglas insuficientes para trabajo remoto/BYOD, falta de auditorías regulares y **más del 80 % de empleados sin formación en ciberseguridad**.
+Tech del Futuro es una empresa ficticia con más de 150 empleados, tres servidores principales, laptops corporativas y herramientas de colaboración en la nube. El equipo de Ventas también utiliza celulares personales para trabajar.
 
-### Entregables propuestos
-1. **Borrador de política de seguridad (v1.0):** alcance, información, dispositivos, principios de acceso y roles de Gerencia, Seguridad, TI, RR. HH. y empleados.
-2. **Procedimientos:** teletrabajo, registro BYOD, MFA, actualizaciones, respaldos y reporte de incidentes.
-3. **Flujo de respuesta:** avisar → registrar → evaluar y contener → recuperar → aprender.
-4. **Plan de concienciación de 90 días:** inducción, consejos de phishing/MFA, taller BYOD, simulación educativa y práctica de reporte.
-5. **Criterios y metas:** entrega de política, cobertura de formación, dispositivos registrados y revisión trimestral.
+La empresa había crecido sin definir claramente las responsabilidades de seguridad, las reglas de trabajo remoto ni las revisiones periódicas. Además, el caso indicaba que más del 80 % de los empleados nunca había recibido capacitación en ciberseguridad.
 
-### Despliegue propuesto de 90 días
-| Periodo | Actividad planificada | Evidencia sugerida |
-|---|---|---|
-| Días 1–30 | Presentar política; charla de 30 minutos; encuesta inicial | Asistencia + encuesta |
-| Días 31–60 | Taller BYOD; recordatorios; ejercicio de phishing | Materiales + resultados agregados |
-| Días 61–90 | Simulacro de reporte y retroalimentación | Registro del simulacro + mejoras |
+### Qué desarrollé
 
-**Metas propuestas (no resultados obtenidos):** entregar la política al 100 % del personal, participación de al menos el 90 % en formación, registrar o sustituir el 100 % de dispositivos de trabajo de Ventas y ejecutar un simulacro.
+Redacté un **borrador de política de seguridad de la información** que cubre responsabilidades, acceso a sistemas, equipos corporativos, dispositivos personales utilizados para trabajar (BYOD), respaldos y reporte de incidentes.
 
-### Evidencia y límites
-Entrega original: informe de ocho páginas y presentación/video. [Video de Canva proporcionado por el autor](https://canva.link/tech-del-futuro) (**permisos no verificados**).
+También propuse un proceso sencillo de respuesta: **avisar → registrar → evaluar y contener → recuperar → aprender**.
 
-Es un **borrador de política para una empresa simulada**. No fue aprobado, implementado, auditado ni certificado bajo ISO 27001.
+Como una política necesita ser entendida por quienes la utilizan, incluí un **plan de concienciación de 90 días**:
 
-**NIST mapping / Relación con NIST:** Policy **GV.PO**, roles **GV.RR**, oversight **GV.OV**, security training **PR.AT**, identity/access **PR.AA**, incident management **RS.MA**.
+| Periodo | Actividad propuesta |
+|---|---|
+| Días 1–30 | Presentar la política, dar una charla breve y conocer el punto de partida |
+| Días 31–60 | Hablar sobre phishing y uso seguro de dispositivos personales |
+| Días 61–90 | Practicar el reporte de incidentes y recoger comentarios por departamento |
 
-**References / Referencias:** Academic case from ESI; [NIST CSF 2.0](https://doi.org/10.6028/NIST.CSWP.29); [NIST SP 800-50 Rev. 1](https://doi.org/10.6028/NIST.SP.800-50r1); [NIST SP 800-46 Rev. 2 (BYOD)](https://doi.org/10.6028/NIST.SP.800-46r2).
+El informe propone maneras de dar seguimiento a la asistencia, dispositivos registrados y revisiones de la política. Son planes para la empresa ficticia, no actividades que ya se hayan ejecutado.
+
+### Presentación
+
+[Videopresentación en Canva](https://canva.link/tech-del-futuro)
+
+---
+
+**Related topics / Temas relacionados:** Security policies · BYOD · Awareness training · Access control · NIST CSF 2.0
