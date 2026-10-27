@@ -1,33 +1,30 @@
-# Cybersecurity & Technology Risk | Ciberseguridad y Riesgo Tecnológico
+# Cybersecurity / Ciberseguridad
 
-**Bryan Bodegas · Academic Portfolio / Portafolio académico · ESI School of Management · 2026**
+[← Back to portfolio / Volver al portafolio](../README.md)
 
-> **EN:** Four coursework-based case studies demonstrating cybersecurity risk assessment, vulnerability analysis, third-party risk, security governance and professional communication. These are **academic analyses and simulations**, not client engagements, executed security audits, vulnerability scans or implemented controls.
->
-> **ES:** Cuatro estudios de caso realizados en el contexto universitario para demostrar evaluación de riesgos, análisis de vulnerabilidades, riesgos de terceros, gobierno de seguridad y comunicación profesional. Son **análisis y simulaciones académicas**, no consultorías para clientes, auditorías ejecutadas, escaneos realizados ni controles implementados.
+## English
+
+These are four projects I worked on during my Cybersecurity course at ESI School of Management in 2026. Two use fictional companies to explore everyday security problems; the others look at incidents involving Equifax and Bank of America.
+
+I kept the projects together because they cover different parts of the same subject: identifying risks, understanding what went wrong, and deciding what an organization could do differently.
+
+## Español
+
+Estos cuatro proyectos forman parte de mi curso de Ciberseguridad en ESI School of Management durante 2026. Dos parten de empresas ficticias para analizar problemas de seguridad; los otros estudian incidentes relacionados con Equifax y Bank of America.
+
+Los reuní aquí porque abordan distintas partes de un mismo tema: identificar riesgos, comprender las causas de un problema y proponer cómo una organización podría enfrentarlo.
 
 ## Projects / Proyectos
 
-| Priority / Orden | Project / Proyecto | Evidence / Evidencia | Open / Abrir |
-|---|---|---|---|
-| 01 | **DataProtect — Cybersecurity Risk Assessment / Evaluación de riesgos de ciberseguridad** | 9-scenario risk register, qualitative 3×3 matrix, mitigation actions / Registro de 9 riesgos, matriz 3×3 y medidas de mitigación | [View / Ver](01-dataprotect/README.md) |
-| 02 | **Equifax (2017) — Information Security Incident Analysis / Análisis de incidente** | CVE-2017-5638, patch management, incident response / CVE-2017-5638, parches y respuesta | [View / Ver](02-equifax/README.md) |
-| 03 | **Bank of America — Third-Party Cybersecurity Risk / Riesgo cibernético de terceros** | Vendor-risk controls, suggested review cycles and proposed KPIs / Controles para proveedores y KPI propuestos | [View / Ver](03-bank-of-america/README.md) |
-| 04 | **Tech del Futuro — Information Security Policy & Awareness / Políticas y concienciación** | Policy draft, roles, BYOD and 90-day training plan / Borrador de política, roles, BYOD y plan de 90 días | [View / Ver](04-tech-del-futuro/README.md) |
+| Project / Proyecto | About / De qué trata |
+|---|---|
+| **[DataProtect — Risk Assessment](01-dataprotect/README.md)** | Risk matrix built in Excel, with nine scenarios and a mitigation plan. / Matriz en Excel con nueve escenarios de riesgo y un plan de mitigación. |
+| **[Equifax (2017) — Data Breach Analysis](02-equifax/README.md)** | Research on an unpatched vulnerability, its impact and incident response. / Investigación sobre una vulnerabilidad sin corregir, su impacto y la respuesta al incidente. |
+| **[Bank of America — Third-Party Risk](03-bank-of-america/README.md)** | Analysis of risks when a financial institution works with external technology providers. / Análisis de los riesgos al trabajar con proveedores tecnológicos externos. |
+| **[Tech del Futuro — Security Policy](04-tech-del-futuro/README.md)** | Draft security policy and a 90-day awareness plan. / Borrador de política de seguridad y plan de concienciación de 90 días. |
 
-### Start here / Comienza aquí
+The project pages are available in **English and Spanish**. The original assignments were completed in Spanish.
 
-**EN:** For a junior technology-risk role, start with **DataProtect**. It includes the strongest structured, spreadsheet-based deliverable. The other cases demonstrate research, control design and policy writing. Each project explains the scenario, my academic output, what was *proposed* versus *actually tested*, and relevant professional skills.
+Las páginas de los proyectos están disponibles en **inglés y español**. Las entregas académicas originales se realizaron en español.
 
-**ES:** Para una vacante junior de riesgo tecnológico, comienza por **DataProtect**. Incluye el entregable estructurado más práctico, elaborado en Excel. Los otros proyectos demuestran investigación, diseño de controles y documentación de políticas. Cada proyecto distingue lo *propuesto* de lo *realmente probado* e identifica competencias profesionales.
-
-**Methodology & limitations / Metodología y limitaciones:** [Read / Leer](PROJECT-METHODOLOGY.md)
-
-### Relevant areas / Áreas relacionadas
-
-NIST CSF 2.0 (especially ID.AM, ID.RA, GV.PO, GV.RR, PR.AT), qualitative risk scoring, vulnerability remediation follow-up, incident analysis, policy documentation, executive reporting.
-
-NIST CSF 2.0 (en especial ID.AM, ID.RA, GV.PO, GV.RR y PR.AT), valoración cualitativa de riesgos, seguimiento de remediación, análisis de incidentes, políticas y reportes ejecutivos.
-
----
-**Portfolio note / Nota:** The descriptions are recruiter-friendly summaries of coursework; evidence from the original submissions has not been represented as production implementation. / Estas descripciones resumen trabajos académicos para reclutadores y no presentan las propuestas como implementaciones reales.
+[About these projects / Acerca de estos proyectos](PROJECT-METHODOLOGY.md)
