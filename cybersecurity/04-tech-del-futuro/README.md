@@ -1,67 +1,44 @@
 # Tech del Futuro — Information Security Policy
-## Política de seguridad de la información
+Política de seguridad de la información · ESI School of Management, octubre de 2026
 
-**Cybersecurity course / Curso de Ciberseguridad · ESI School of Management · October / octubre 2026**  
-**Case / Caso:** Tech del Futuro, S. A. (fictional company in El Salvador / empresa ficticia de El Salvador)
-
-[← Cybersecurity / Ciberseguridad](../README.md)
+[Cybersecurity / Ciberseguridad](../README.md) · [English](#english) · [Español](#español)
 
 ## English
 
-### The case
-
-Tech del Futuro is a fictional company with more than 150 employees, three main servers, corporate laptops and cloud collaboration tools. Its sales team also uses personal mobile devices for work.
-
-The company had grown without clearly defining security responsibilities, remote-work rules or regular checks. The case also reported that more than 80% of employees had never received cybersecurity training.
+### Background
+Tech del Futuro is a fictional company in El Salvador with more than 150 employees. It uses servers, corporate laptops, cloud tools and personal mobile devices for some work tasks. The case describes unclear security responsibilities, incomplete remote-work rules and a lack of regular training and reviews.
 
 ### What I prepared
+I drafted an information security policy covering who is responsible for security decisions, how access and devices should be managed, and how employees should report incidents.
 
-I wrote a **draft information security policy** covering responsibilities, access to systems, company devices, personal devices used for work (BYOD), backups and incident reporting.
+The proposed reporting process has five steps: **report, record, assess and contain, recover, and learn**.
 
-I also proposed a straightforward response process: **report → record → assess and contain → recover → learn**.
+I also prepared a **90-day awareness plan**:
+- **Days 1–30:** introduce the policy and give a short session on phishing, MFA and reporting.
+- **Days 31–60:** discuss safe use of personal devices and run an educational phishing exercise.
+- **Days 61–90:** practice incident reporting and review what needs to improve.
 
-Because security policies only work if people understand them, I included a **90-day awareness plan**:
-
-| Period | Planned activity |
-|---|---|
-| Days 1–30 | Introduce the policy, hold a short training session and gather baseline feedback |
-| Days 31–60 | Discuss phishing and the safe use of personal devices |
-| Days 61–90 | Practice incident reporting and collect feedback from each department |
-
-The report suggests ways to follow up on training attendance, registered devices and policy reviews. These are plans for the fictional company, not activities already carried out.
+The report includes suggested ways to monitor attendance, device registration and policy reviews. These are proposals for the fictional organization.
 
 ### Presentation
-
-[Video presentation on Canva](https://canva.link/tech-del-futuro)
+[Watch the presentation on Canva](https://canva.link/tech-del-futuro)
 
 ## Español
 
-### El caso
+### Contexto
+Tech del Futuro es una empresa ficticia de El Salvador con más de 150 empleados. Utiliza servidores, laptops corporativas, herramientas en la nube y algunos dispositivos personales para trabajar. El caso describe responsabilidades de seguridad poco claras, reglas incompletas para trabajo remoto y falta de capacitaciones y revisiones periódicas.
 
-Tech del Futuro es una empresa ficticia con más de 150 empleados, tres servidores principales, laptops corporativas y herramientas de colaboración en la nube. El equipo de Ventas también utiliza celulares personales para trabajar.
+### Qué preparé
+Redacté una propuesta de política de seguridad de la información que define responsables, reglas de acceso, manejo de dispositivos y procedimientos para reportar incidentes.
 
-La empresa había crecido sin definir claramente las responsabilidades de seguridad, las reglas de trabajo remoto ni las revisiones periódicas. Además, el caso indicaba que más del 80 % de los empleados nunca había recibido capacitación en ciberseguridad.
+El procedimiento de reporte incluye cinco pasos: **avisar, registrar, evaluar y contener, recuperar y aprender**.
 
-### Qué desarrollé
+También preparé un **plan de concienciación de 90 días**:
+- **Días 1–30:** presentar la política y dar una charla breve sobre phishing, MFA y reporte.
+- **Días 31–60:** abordar el uso seguro de dispositivos personales y realizar un ejercicio educativo de phishing.
+- **Días 61–90:** practicar el reporte de incidentes y revisar oportunidades de mejora.
 
-Redacté un **borrador de política de seguridad de la información** que cubre responsabilidades, acceso a sistemas, equipos corporativos, dispositivos personales utilizados para trabajar (BYOD), respaldos y reporte de incidentes.
-
-También propuse un proceso sencillo de respuesta: **avisar → registrar → evaluar y contener → recuperar → aprender**.
-
-Como una política necesita ser entendida por quienes la utilizan, incluí un **plan de concienciación de 90 días**:
-
-| Periodo | Actividad propuesta |
-|---|---|
-| Días 1–30 | Presentar la política, dar una charla breve y conocer el punto de partida |
-| Días 31–60 | Hablar sobre phishing y uso seguro de dispositivos personales |
-| Días 61–90 | Practicar el reporte de incidentes y recoger comentarios por departamento |
-
-El informe propone maneras de dar seguimiento a la asistencia, dispositivos registrados y revisiones de la política. Son planes para la empresa ficticia, no actividades que ya se hayan ejecutado.
+El informe incluye propuestas para dar seguimiento a la asistencia, el registro de dispositivos y las revisiones de la política. Son medidas planteadas para la empresa ficticia.
 
 ### Presentación
-
-[Videopresentación en Canva](https://canva.link/tech-del-futuro)
-
----
-
-**Related topics / Temas relacionados:** Security policies · BYOD · Awareness training · Access control · NIST CSF 2.0
+[Ver la videopresentación en Canva](https://canva.link/tech-del-futuro)
