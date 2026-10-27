@@ -1,65 +1,40 @@
-# DataProtect — Risk Assessment
-## Evaluación de riesgos de ciberseguridad
+# DataProtect — Cybersecurity Risk Assessment
+Evaluación de riesgos de ciberseguridad · ESI School of Management, 2026
 
-**Cybersecurity course / Curso de Ciberseguridad · ESI School of Management · 2026**  
-**Case / Caso:** DataProtect de Guatemala, S. A. (fictional company / empresa ficticia)
+[Cybersecurity / Ciberseguridad](../README.md) · [English](#english) · [Español](#español)
 
-[← Cybersecurity / Ciberseguridad](../README.md) · [Risk register / Registro de riesgos](risk-register-bilingual.csv)
-
-![Risk distribution for DataProtect / Distribución de riesgos de DataProtect](risk-distribution.svg)
+![Distribution of assessed risks / Distribución de riesgos evaluados](risk-distribution.svg)
 
 ## English
 
-### The case
+### Background
+DataProtect is a fictional cybersecurity consultancy. Its internal review identified weak or reused passwords, missing MFA for remote access, outdated software, unregistered visitors and gaps in incident preparation.
 
-DataProtect, a fictional cybersecurity consulting company, identified several issues during an internal review: weak passwords, remote access without MFA, outdated systems, uncontrolled physical access and gaps in incident response.
+### What I did
+I built an Excel risk matrix using the findings from the case. For each of **nine scenarios**, I documented the asset, threat, vulnerability, likelihood, impact and proposed mitigation. A second sheet explains the ratings and sets out suggested responsibilities, deadlines and ways to check each action. A third sheet records the criteria and sources.
 
-### My work
+The ratings use a **3 × 3 likelihood–impact scale**. Eight scenarios were rated high and one medium.
 
-I organized the findings into an Excel risk matrix and evaluated **nine risk scenarios**. For each one, I identified the asset involved, the threat, the vulnerability, likelihood, impact and a possible mitigation strategy.
+### Files
+- [Risk register — bilingual CSV](risk-register-bilingual.csv): a condensed version of the nine scenarios.
+- The chart above shows the distribution of risk levels.
+- The original three-sheet Excel workbook contains the complete assessment and formulas. It still needs to be added to this repository.
 
-The Excel workbook also includes a second sheet explaining the ratings, suggested owners and deadlines, and ways to verify each proposed action. A third sheet documents the criteria and references.
-
-### Results
-
-| Risk level | Scenarios |
-|---|---:|
-| High | 8 |
-| Medium | 1 |
-| Low | 0 |
-
-I used a **3×3 likelihood and impact matrix**. The scores are qualitative judgments for this exercise, not measured incident probabilities.
-
-The most urgent areas in my assessment were account security, remote access, and physical access. Other recommendations addressed software updates, monitoring and incident preparation.
-
-**Files available here:** [Bilingual summary of the risk register (CSV)](risk-register-bilingual.csv) and the chart above. The original Excel file, which includes the formulas and full justification, is not yet hosted in this folder.
+The ratings are qualitative estimates based on the fictional case.
 
 ## Español
 
-### El caso
+### Contexto
+DataProtect es una consultora ficticia de ciberseguridad. Su revisión interna identificó contraseñas débiles o repetidas, ausencia de MFA para acceso remoto, software desactualizado, visitantes sin registro y deficiencias en la preparación ante incidentes.
 
-DataProtect, una empresa ficticia de consultoría en ciberseguridad, encontró varios problemas durante una revisión interna: contraseñas débiles, acceso remoto sin MFA, sistemas desactualizados, acceso físico sin suficiente control y deficiencias en la respuesta a incidentes.
+### Qué hice
+Elaboré una matriz de riesgos en Excel a partir de los hallazgos del caso. Para cada uno de **nueve escenarios**, registré el activo, la amenaza, la vulnerabilidad, la probabilidad, el impacto y una medida de mitigación propuesta. Una segunda hoja explica las valoraciones y plantea responsables, plazos y formas de verificar las acciones. La tercera contiene los criterios y las fuentes.
 
-### Mi trabajo
+Utilicé una **escala de probabilidad e impacto de 3 × 3**. Ocho riesgos quedaron clasificados como altos y uno como medio.
 
-Organicé los hallazgos en una matriz de riesgos en Excel y evalué **nueve escenarios**. Para cada uno identifiqué el activo involucrado, la amenaza, la vulnerabilidad, la probabilidad, el impacto y una posible medida de mitigación.
+### Archivos
+- [Registro de riesgos — CSV bilingüe](risk-register-bilingual.csv): versión resumida de los nueve escenarios.
+- El gráfico anterior muestra la distribución por nivel de riesgo.
+- El archivo original de Excel, de tres hojas, contiene las valoraciones y fórmulas completas. Todavía falta añadirlo al repositorio.
 
-El archivo de Excel incluye una segunda hoja con las justificaciones de las valoraciones, responsables, plazos sugeridos y formas de comprobar las medidas. Una tercera hoja reúne los criterios y las fuentes.
-
-### Resultados
-
-| Nivel de riesgo | Escenarios |
-|---|---:|
-| Alto | 8 |
-| Medio | 1 |
-| Bajo | 0 |
-
-Utilicé una **matriz de probabilidad e impacto de 3×3**. Las puntuaciones son estimaciones cualitativas para el ejercicio, no probabilidades medidas de incidentes reales.
-
-Los temas que prioricé fueron la seguridad de las cuentas, el acceso remoto y el acceso físico. También propuse mejoras para actualizaciones, monitoreo y preparación ante incidentes.
-
-**Archivos disponibles:** [Resumen bilingüe del registro de riesgos (CSV)](risk-register-bilingual.csv) y el gráfico de esta página. El Excel original, con fórmulas y justificaciones completas, aún no está alojado en esta carpeta.
-
----
-
-**Related topics / Temas relacionados:** Risk assessment · Excel · Threats and vulnerabilities · NIST CSF 2.0 (ID.AM / ID.RA)
+Las valoraciones son estimaciones cualitativas basadas en el caso ficticio.
