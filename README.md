@@ -1,42 +1,40 @@
 # Bryan Bodegas
+Business Technology Management · Project Portfolio
 
-**Business Technology Management · Data Analytics · Cybersecurity · Business Processes**  
-**Gestión de Tecnología Empresarial · Análisis de Datos · Ciberseguridad · Procesos de Negocio**
+[English](#english) · [Español](#español)
 
-## About me / Sobre mí
+## English
 
-**EN**  
-I'm studying Business Technology Management, and my professional background is in customer support and back-office operations in the BPO industry. My projects reflect what I've been learning and exploring along the way: working with data, understanding security risks, documenting processes, and finding practical ways to solve problems.
+I'm studying Business Technology Management. Before focusing more on technology, I worked in customer support and back-office operations in the BPO industry.
 
-**ES**  
-Estudio Business Technology Management y mi experiencia laboral ha sido principalmente en atención al cliente y operaciones de back office en la industria BPO. En este espacio comparto proyectos que he desarrollado durante mis estudios y por iniciativa propia, relacionados con análisis de datos, ciberseguridad, procesos y soluciones tecnológicas.
+This repository brings together a few projects from my courses and independent work. They cover data analysis, cybersecurity and how technology is used in business.
 
-## Projects / Proyectos
+### Projects
 
-### Cybersecurity / Ciberseguridad
+| Project | Description |
+|---|---|
+| [Hacker News — Engagement Analysis](hacker-news/README.md) | Python project that collects Hacker News posts, cleans the data and creates charts and Excel reports. |
+| [DataProtect — Risk Assessment](cybersecurity/01-dataprotect/README.md) | Excel-based analysis of nine cybersecurity risk scenarios for a fictional company. |
+| [Equifax (2017) — Incident Analysis](cybersecurity/02-equifax/README.md) | Research essay about a data breach, an unpatched vulnerability and the company's response. |
+| [Bank of America — Third-Party Risk](cybersecurity/03-bank-of-america/README.md) | Case study on security risks when financial institutions depend on external technology providers. |
+| [Tech del Futuro — Security Policy](cybersecurity/04-tech-del-futuro/README.md) | Draft information security policy and a 90-day employee awareness plan. |
 
-Four academic projects focused on understanding security risks and communicating possible solutions.  
-Cuatro proyectos académicos centrados en comprender riesgos de seguridad y plantear posibles soluciones.
+[Cybersecurity projects](cybersecurity/README.md) · [Hacker News notebook](hacker_news_engagement_analysis.ipynb)
 
-| Project / Proyecto | Focus / Enfoque | |
-|---|---|---|
-| **DataProtect** | Risk assessment in Excel / Evaluación de riesgos en Excel | [View / Ver](cybersecurity/01-dataprotect/README.md) |
-| **Equifax (2017)** | Data breach and vulnerability analysis / Análisis de filtración y vulnerabilidades | [View / Ver](cybersecurity/02-equifax/README.md) |
-| **Bank of America / Infosys McCamish** | Third-party security risks / Riesgos de seguridad de proveedores | [View / Ver](cybersecurity/03-bank-of-america/README.md) |
-| **Tech del Futuro** | Security policy and awareness plan / Política de seguridad y plan de concienciación | [View / Ver](cybersecurity/04-tech-del-futuro/README.md) |
+## Español
 
-[**Explore the cybersecurity collection / Explorar los proyectos de ciberseguridad →**](cybersecurity/README.md)
+Estudio Business Technology Management. Mi experiencia laboral ha sido principalmente en atención al cliente y operaciones de back office dentro de la industria BPO.
 
-### Data Analytics / Análisis de datos
+Aquí reúno algunos proyectos que he realizado durante mis estudios y por cuenta propia. Son trabajos relacionados con análisis de datos, ciberseguridad y el uso de la tecnología en las empresas.
 
-**Hacker News Tech Engagement Analysis** — Python project exploring which technology stories and sources receive the most engagement on Hacker News. It includes data collection, cleaning, analysis and Excel reporting.
+### Proyectos
 
-**Hacker News Tech Engagement Analysis** — Proyecto en Python para explorar qué noticias y fuentes tecnológicas generan mayor interacción en Hacker News. Incluye recolección, limpieza y análisis de datos, además de reportes en Excel.
+| Proyecto | Descripción |
+|---|---|
+| [Hacker News — Análisis de interacción](hacker-news/README.md) | Proyecto en Python para recopilar noticias, limpiar datos y generar gráficos y reportes en Excel. |
+| [DataProtect — Evaluación de riesgos](cybersecurity/01-dataprotect/README.md) | Análisis en Excel de nueve escenarios de riesgo de ciberseguridad de una empresa ficticia. |
+| [Equifax (2017) — Análisis de incidente](cybersecurity/02-equifax/README.md) | Ensayo sobre una filtración de datos, una vulnerabilidad sin corregir y la respuesta de la empresa. |
+| [Bank of America — Riesgos de proveedores](cybersecurity/03-bank-of-america/README.md) | Caso sobre los riesgos de seguridad al depender de proveedores tecnológicos externos. |
+| [Tech del Futuro — Política de seguridad](cybersecurity/04-tech-del-futuro/README.md) | Propuesta de política de seguridad de la información y plan de capacitación de 90 días. |
 
-**Tools / Herramientas:** Python · Requests · BeautifulSoup · Pandas · Matplotlib · XlsxWriter · Google Colab
-
-[**Project details / Detalles del proyecto →**](hacker-news/README.md) · [**Notebook / Cuaderno**](hacker_news_engagement_analysis.ipynb) · [**Google Colab**](https://colab.research.google.com/drive/1ruE0dm5EbukzDUa2nQuhpubpCPv3i9IB?usp=sharing)
-
----
-
-**About the work / Sobre los trabajos:** Projects combine university assignments and independent practice. Each project page explains its context and the work completed. / Los proyectos incluyen actividades universitarias y prácticas independientes. En cada página explico el contexto y lo que desarrollé.
+[Proyectos de ciberseguridad](cybersecurity/README.md) · [Cuaderno de Hacker News](hacker_news_engagement_analysis.ipynb)
