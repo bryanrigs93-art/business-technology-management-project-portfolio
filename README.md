@@ -1,3 +1,31 @@
+# Bryan Bodegas | Technology Portfolio / Portafolio tecnológico
+
+**EN:** Business Technology Management student transitioning from BPO customer support into technology-focused roles. This portfolio highlights academic case studies and hands-on learning artifacts; it does not present academic work as paid industry experience.
+
+**ES:** Estudiante de Business Technology Management en transición desde Customer Support en BPO hacia puestos tecnológicos. Este portafolio presenta casos académicos y evidencias de aprendizaje práctico; no presenta los trabajos universitarios como experiencia laboral remunerada en el sector.
+
+## 🔐 Cybersecurity & Technology Risk / Ciberseguridad y Riesgo Tecnológico
+
+**[Explore all four cybersecurity projects / Explorar los cuatro proyectos](cybersecurity/README.md)**
+
+| Academic case study / Caso académico | What it demonstrates / Qué demuestra | Explore / Explorar |
+|---|---|---|
+| **DataProtect** | 9-scenario risk matrix in Excel and proposed remediation / Matriz de 9 riesgos en Excel y remediación propuesta | [EN / ES](cybersecurity/01-dataprotect/README.md) |
+| **Equifax (2017)** | Vulnerability and breach analysis / Análisis de vulnerabilidades e incidentes | [EN / ES](cybersecurity/02-equifax/README.md) |
+| **Bank of America / Infosys McCamish** | Third-party security risk and proposed KPIs / Riesgo de proveedores e indicadores propuestos | [EN / ES](cybersecurity/03-bank-of-america/README.md) |
+| **Tech del Futuro** | Information security policy and awareness plan / Política de seguridad y plan de concienciación | [EN / ES](cybersecurity/04-tech-del-futuro/README.md) |
+
+> **Scope / Alcance:** Academic exercises and simulations, not security work performed for the organizations named. / Ejercicios y simulaciones académicas, no trabajos de seguridad realizados para las organizaciones mencionadas.
+
+---
+
+## 📊 Data Analytics / Análisis de datos
+
+**EN:** The next section documents an existing Python project analyzing Hacker News engagement.  
+**ES:** La siguiente sección documenta un proyecto existente de Python sobre participación en Hacker News. El material técnico previo se conserva.
+
+---
+
 # Hacker News Tech Engagement Analysis
 
 [Open the live notebook in Google Colab](https://colab.research.google.com/drive/1ruE0dm5EbukzDUa2nQuhpubpCPv3i9IB?usp=sharing)
