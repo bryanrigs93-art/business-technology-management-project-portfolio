@@ -1,67 +1,44 @@
-# Bank of America — Third-Party Security Risk
-## Riesgos de seguridad asociados con proveedores tecnológicos
+# Bank of America — Third-Party Cybersecurity Risk
+Riesgos de ciberseguridad de proveedores · ESI School of Management, octubre de 2026
 
-**Cybersecurity course / Curso de Ciberseguridad · ESI School of Management · October / octubre 2026**  
-**Case / Caso:** Bank of America and Infosys McCamish / Bank of America e Infosys McCamish
-
-[← Cybersecurity / Ciberseguridad](../README.md)
+[Cybersecurity / Ciberseguridad](../README.md) · [English](#english) · [Español](#español)
 
 ## English
 
-### The case
+### Background
+The case examines an incident at **Infosys McCamish**, a financial-services technology provider. Information associated with **57,028 Bank of America customers** was exposed through the supplier. The case is about third-party data security, rather than a reported breach of the bank's own systems.
 
-A security incident at **Infosys McCamish**, a financial-services technology provider, exposed information associated with **57,028 Bank of America customers**, according to the academic case material. The incident was linked to the provider rather than a reported breach of the bank's own systems.
+### What I worked on
+I analyzed why using external providers introduces additional security risks when they store or process customer information. I reviewed the impacts on customers and the organization and prepared recommendations on:
 
-### My analysis
+- Assessing suppliers before contracts are signed.
+- Checking privileged access, software updates and backups during operations.
+- Requesting evidence from providers instead of relying only on written assurances.
+- Coordinating incident reporting and response between the bank and supplier.
 
-I focused on the risks involved when an organization depends on third parties to handle sensitive information. The report covers the impact on customers and proposes a way to make vendor oversight more consistent.
-
-I organized the proposal around three areas: **supplier reviews, technical security controls and a coordinated incident response**.
-
-| When | Proposed review |
-|---|---|
-| Before working with a supplier | Assess the data it handles, subcontractors and continuity plans |
-| During operations | Check patching, privileged access and backup records |
-| Periodically | Review security evidence and recovery tests |
-| During an incident | Coordinate notification, containment and documentation |
-
-The report also suggests indicators such as classification of critical suppliers, MFA coverage and backup restoration tests. They were **targets for the case**, not measured results.
+The report also includes suggested review intervals, responsible teams and indicators for following up on these measures. These were recommendations for the case, not results from the organizations involved.
 
 ### Presentation
+[Watch the case presentation on Canva](https://canva.link/security-bryan-bodegas)
 
-[Video presentation on Canva](https://canva.link/security-bryan-bodegas)
-
-The assignment includes an individual analysis and a group-discussion section.
+The assignment included an individual-analysis section and a group-discussion section.
 
 ## Español
 
-### El caso
+### Contexto
+El caso estudia un incidente ocurrido en **Infosys McCamish**, un proveedor de tecnología para servicios financieros. Información relacionada con **57,028 clientes de Bank of America** quedó expuesta a través de ese proveedor. El tema central es la seguridad de los datos administrados por terceros, no una intrusión reportada en los sistemas del banco.
 
-Un incidente de seguridad en **Infosys McCamish**, proveedor de servicios tecnológicos financieros, expuso información relacionada con **57,028 clientes de Bank of America**, según el material académico. El problema estuvo vinculado al proveedor, no a una intrusión reportada en los sistemas del banco.
+### Qué trabajé
+Analicé los riesgos adicionales que surgen cuando una empresa contrata proveedores externos para almacenar o procesar información de sus clientes. Revisé las consecuencias para los afectados y para la organización, y planteé recomendaciones para:
 
-### Mi análisis
+- Evaluar la seguridad de los proveedores antes de contratarlos.
+- Revisar accesos privilegiados, actualizaciones y respaldos durante la operación.
+- Solicitar evidencias de los controles, en lugar de depender únicamente de declaraciones.
+- Coordinar la comunicación y la respuesta ante incidentes entre banco y proveedor.
 
-Me concentré en los riesgos que aparecen cuando una organización depende de terceros para manejar información sensible. El informe analiza el impacto en los clientes y propone una forma de dar seguimiento a la seguridad de los proveedores.
-
-Organicé la propuesta en tres áreas: **revisiones a proveedores, controles técnicos y respuesta coordinada ante incidentes**.
-
-| Momento | Revisión propuesta |
-|---|---|
-| Antes de contratar | Evaluar los datos tratados, subcontratistas y planes de continuidad |
-| Durante la operación | Revisar actualizaciones, accesos privilegiados y respaldos |
-| Periódicamente | Comprobar evidencias de seguridad y pruebas de recuperación |
-| Ante un incidente | Coordinar notificación, contención y documentación |
-
-También propuse indicadores como clasificación de proveedores críticos, cobertura de MFA y pruebas de restauración. Son **metas planteadas para el caso**, no resultados medidos.
+El informe incluye frecuencias de revisión, responsables e indicadores sugeridos para dar seguimiento a estas medidas. Son propuestas elaboradas para el caso, no resultados obtenidos por las organizaciones involucradas.
 
 ### Presentación
+[Ver la videopresentación en Canva](https://canva.link/security-bryan-bodegas)
 
-[Videopresentación en Canva](https://canva.link/security-bryan-bodegas)
-
-La actividad incluye una parte de análisis individual y una sección de discusión grupal.
-
----
-
-**References / Referencias:** ESI case material / Material del caso de ESI · [NIST: Cybersecurity Supply Chain Risk Management](https://doi.org/10.6028/NIST.SP.1305)
-
-**Related topics / Temas relacionados:** Third-party risk · Supplier oversight · Incident response · Security controls
+La actividad incluía una parte de análisis individual y otra de discusión grupal.
