@@ -1,61 +1,53 @@
-# Equifax 2017 — Information Security Incident & Vulnerability Analysis
-# Equifax 2017 — Análisis de incidente y vulnerabilidades de seguridad
+# Equifax (2017) — Data Breach Analysis
+## Análisis de la filtración de datos de Equifax
 
-**Type / Tipo:** Academic research essay and recorded summary / Ensayo de investigación y resumen grabado  
-**Case / Caso:** Public 2017 Equifax data breach / Filtración pública de Equifax de 2017  
-**Course / Materia:** Cybersecurity, ESI School of Management · October / octubre 2026  
-**Skills / Competencias:** Incident analysis · CVE research · Patch management · Root-cause reasoning · Risk communication
+**Cybersecurity course / Curso de Ciberseguridad · ESI School of Management · October / octubre 2026**  
+**Format / Formato:** Research essay and audio summary / Ensayo y resumen en audio
 
-[← Portfolio / Portafolio](../README.md)
+[← Cybersecurity / Ciberseguridad](../README.md)
 
 ## English
 
-### Incident and business impact
-The assignment investigated Equifax's 2017 breach affecting approximately **147 million people**. The coursework discussed identity-theft exposure, legal and reputational consequences, and a **2019 settlement of at least US$575 million, potentially reaching US$700 million**. These are figures reported in the cited public sources, not independently measured results of this project.
+### Why I chose this case
 
-### What I analyzed
-1. **Entry point:** an Apache Struts application vulnerable to **CVE-2017-5638**; a patch was available but was not successfully applied to the affected system.
-2. **Compounding weaknesses:** deficiencies in patch verification, access to credentials, segmentation and monitoring.
-3. **Response:** discovery of suspicious activity in late July 2017, investigation and containment, public disclosure in September and customer support challenges.
-4. **Lessons:** asset/software visibility, ownership of remediation, verification of fixes, least privilege, segmentation, logging, and coordinated customer communication.
+The 2017 Equifax breach affected approximately 147 million people. I chose it because it shows how a known technical vulnerability can become a much larger problem when several security processes fail at the same time.
 
-### Key observation
-> Having an update policy is not enough; organizations need evidence that a critical vulnerability was actually remediated.
+### What I looked into
 
-### Deliverables and scope
-- Research-based written essay (original submission in Spanish).
-- Spoken summary (original audio assignment in Spanish; **audio file is not hosted in this repository**).
-- This bilingual page is a **portfolio synopsis**, not a forensic report or an independent vulnerability assessment.
+The attackers exploited **CVE-2017-5638**, a vulnerability in Apache Struts. A patch was already available, but it had not been applied to the affected application.
 
-**What I did not do:** I did not scan Equifax systems, perform forensic analysis or access breach data.
+My essay examines that gap alongside weaknesses in credential protection, network segmentation and monitoring. I also covered the impact on individuals, the company's response and the difficulties people faced when trying to get information after the breach.
 
-### Public references cited in the assignment
-- [U.S. Government Accountability Office — GAO-18-559](https://www.gao.gov/products/gao-18-559)
-- [Federal Trade Commission — 2019 settlement announcement](https://www.ftc.gov/news-events/news/press-releases/2019/07/equifax-pay-575-million-part-settlement-ftc-cfpb-states-related-2017-data-breach)
-- [U.S. House Oversight Committee — Equifax report](https://oversight.house.gov/report/committee-releases-report-revealing-new-information-on-equifax-data-breach/)
+The incident had financial and legal consequences: in 2019, Equifax agreed to a settlement of at least **US$575 million**, potentially reaching US$700 million.
+
+### What I took from it
+
+One of the main points in my essay is the difference between **having a patching process** and **checking that a critical patch was actually applied**. I also discussed the need for clear responsibilities, reliable monitoring and communication with affected people.
+
+The assignment included a written essay and a spoken summary in Spanish. The original files have not yet been added to this repository.
 
 ## Español
 
-### Incidente e impacto empresarial
-El ensayo investigó la filtración de Equifax en 2017, que afectó aproximadamente a **147 millones de personas**. Se analizaron los riesgos de robo de identidad y las consecuencias legales y reputacionales, incluido el **acuerdo anunciado en 2019 por al menos US$575 millones, con posibilidad de llegar a US$700 millones**. Las cifras provienen de las fuentes citadas, no de mediciones propias.
+### Por qué elegí este caso
 
-### Qué analicé
-1. **Punto de entrada:** una aplicación con Apache Struts vulnerable a **CVE-2017-5638**, con parche disponible que no se aplicó efectivamente al sistema afectado.
-2. **Debilidades adicionales:** verificación insuficiente de parches, protección de credenciales, segmentación y monitoreo.
-3. **Respuesta:** detección de actividad sospechosa a finales de julio de 2017, investigación, contención, divulgación en septiembre y dificultades en los canales de atención.
-4. **Lecciones:** inventario de aplicaciones, responsables de remediación, evidencia de cierre, mínimo privilegio, segmentación, registros y comunicación coordinada.
+La filtración de Equifax en 2017 afectó aproximadamente a 147 millones de personas. Elegí este incidente porque permite ver cómo una vulnerabilidad técnica conocida puede convertirse en un problema mucho mayor cuando fallan varios procesos de seguridad.
 
-### Observación principal
-> No basta con tener una política de actualizaciones: hay que comprobar que una vulnerabilidad crítica se corrigió realmente.
+### Qué investigué
 
-### Entregables y alcance
-- Ensayo académico en español.
-- Resumen oral grabado en español (**el audio original no está alojado en este repositorio**).
-- Esta página bilingüe es una **síntesis para portafolio**, no un informe forense ni una evaluación independiente.
+Los atacantes aprovecharon **CVE-2017-5638**, una vulnerabilidad de Apache Struts. El parche ya estaba disponible, pero no se había aplicado a la aplicación afectada.
 
-**Lo que no hice:** no escaneé sistemas de Equifax, no realicé análisis forense y no accedí a datos de la filtración.
+En el ensayo examiné ese problema junto con las debilidades en protección de credenciales, segmentación de redes y monitoreo. También analicé las consecuencias para las personas, la respuesta de la empresa y las dificultades que enfrentaron los afectados para recibir información.
 
-### Fuentes públicas citadas
-Las fuentes oficiales se encuentran enlazadas en la sección anterior.
+El incidente tuvo consecuencias económicas y legales: en 2019, Equifax llegó a un acuerdo por al menos **US$575 millones**, con posibilidad de alcanzar US$700 millones.
 
-**NIST relevance / Relación con NIST:** Vulnerability identification and risk assessment relate conceptually to **ID.RA**; response coordination relates to **RS**. / Identificación y evaluación de vulnerabilidades se relacionan conceptualmente con **ID.RA** y la respuesta con **RS**.
+### Qué aprendí del caso
+
+Uno de los puntos centrales de mi ensayo es la diferencia entre **tener un proceso de actualizaciones** y **comprobar que un parche crítico se aplicó realmente**. También abordé la importancia de asignar responsables, monitorear los sistemas y comunicarse con las personas afectadas.
+
+La actividad incluyó un ensayo y un resumen hablado en español. Los archivos originales todavía no se han añadido a este repositorio.
+
+---
+
+**Sources / Fuentes:** [GAO report](https://www.gao.gov/products/gao-18-559) · [FTC settlement announcement](https://www.ftc.gov/news-events/news/press-releases/2019/07/equifax-pay-575-million-part-settlement-ftc-cfpb-states-related-2017-data-breach) · [U.S. House report](https://oversight.house.gov/report/committee-releases-report-revealing-new-information-on-equifax-data-breach/)
+
+**Related topics / Temas relacionados:** Vulnerability management · Patch verification · Incident response · Security governance
